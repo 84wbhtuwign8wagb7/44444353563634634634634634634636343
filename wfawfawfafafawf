@@ -1,15 +1,14 @@
 --[=[
-$$\   $$\ $$$$$$$\ $$$$$$$$\ $$$$$$$$\  $$$$$$\  $$\      $$\ 
-$$ | $$  |$$  __$$\\__$$  __|$$  _____|$$  __$$\ $$$\    $$$ |
-$$ |$$  / $$ |  $$ |  $$ |   $$ |      $$ /  $$ |$$$$\  $$$$ |
-$$$$$  /  $$$$$$$  |  $$ |   $$$$$\    $$$$$$$$ |$$\$$\$$ $$ |
-$$  $$<   $$  __$$<   $$ |   $$  __|   $$  __$$ |$$ \$$$  $$ |
-$$ |\$$\  $$ |  $$ |  $$ |   $$ |      $$ |  $$ |$$ |\$  /$$ |
-$$ | \$$\ $$ |  $$ |  $$ |   $$$$$$$$\ $$ |  $$ |$$ | \_/ $$ |
-\__|  \__|\__|  \__|  \__|   \________|\__|  \__|\__|     \__|                                                     
+ ██ ▄█▀ ██▀███  ▄▄▄█████▓▓█████ ▄▄▄       ███▄ ▄███▓
+ ██▄█▒ ▓██ ▒ ██▒▓  ██▒ ▓▒▓█   ▀▒████▄    ▓██▒▀█▀ ██▒
+▓███▄░ ▓██ ░▄█ ▒▒ ▓██░ ▒░▒███  ▒██  ▀█▄  ▓██    ▓██░
+▓██ █▄ ▒██▀▀█▄  ░ ▓██▓ ░ ▒▓█  ▄░██▄▄▄▄██ ▒██    ▒██ 
+▒██▒ █▄░██▓ ▒██▒  ▒██▒ ░ ░▒████▒▓█   ▓██▒▒██▒   ░██▒
+▒ ▒▒ ▓▒░ ▒▓ ░▒▓░  ▒ ░░   ░░ ▒░ ░▒▒   ▓▒█░░ ▒░   ░  ░
+░ ░▒ ▒░  ░▒ ░ ▒░    ░     ░ ░  ░ ▒   ▒▒ ░░  ░      ░
+░ ░░ ░   ░░   ░   ░         ░    ░   ▒   ░      ░   
+░  ░      ░                 ░  ░     ░  ░       ░                                           
 ]=]
-
-
 -- Instances:
 
 local kr2 = {
@@ -479,196 +478,189 @@ local kr2 = {
 	TextLabel_66 = Instance.new("TextLabel"),
 	UIStroke_87 = Instance.new("UIStroke"),
 	UITextSizeConstraint_40 = Instance.new("UITextSizeConstraint"),
-	TextLabel_67 = Instance.new("TextLabel"),
-	UIStroke_88 = Instance.new("UIStroke"),
 	UIAspectRatioConstraint_81 = Instance.new("UIAspectRatioConstraint"),
 	ImageLabel_40 = Instance.new("ImageLabel"),
 	UIAspectRatioConstraint_82 = Instance.new("UIAspectRatioConstraint"),
-	ImageLabel_41 = Instance.new("ImageLabel"),
 	UIAspectRatioConstraint_83 = Instance.new("UIAspectRatioConstraint"),
-	ImageLabel_42 = Instance.new("ImageLabel"),
+	ImageLabel_41 = Instance.new("ImageLabel"),
 	UIAspectRatioConstraint_84 = Instance.new("UIAspectRatioConstraint"),
-	ImageLabel_43 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_85 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_86 = Instance.new("UIAspectRatioConstraint"),
+	TextLabel_67 = Instance.new("TextLabel"),
+	UIStroke_88 = Instance.new("UIStroke"),
+	UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint"),
 	TextLabel_68 = Instance.new("TextLabel"),
 	UIStroke_89 = Instance.new("UIStroke"),
-	UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint"),
-	TextLabel_69 = Instance.new("TextLabel"),
-	UIStroke_90 = Instance.new("UIStroke"),
 	UITextSizeConstraint_42 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_87 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_88 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_85 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_86 = Instance.new("UIAspectRatioConstraint"),
 	shadow2_2 = Instance.new("Frame"),
 	UIGradient_11 = Instance.new("UIGradient"),
-	UIAspectRatioConstraint_89 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_87 = Instance.new("UIAspectRatioConstraint"),
 	SettingsPage = Instance.new("Frame"),
 	UICorner_52 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_90 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_70 = Instance.new("TextLabel"),
-	UIStroke_91 = Instance.new("UIStroke"),
+	UIAspectRatioConstraint_88 = Instance.new("UIAspectRatioConstraint"),
+	TextLabel_69 = Instance.new("TextLabel"),
+	UIStroke_90 = Instance.new("UIStroke"),
 	UITextSizeConstraint_43 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_91 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_89 = Instance.new("UIAspectRatioConstraint"),
 	f1 = Instance.new("Frame"),
+	UIStroke_91 = Instance.new("UIStroke"),
+	TextLabel_70 = Instance.new("TextLabel"),
 	UIStroke_92 = Instance.new("UIStroke"),
+	UITextSizeConstraint_44 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_90 = Instance.new("UIAspectRatioConstraint"),
 	TextLabel_71 = Instance.new("TextLabel"),
 	UIStroke_93 = Instance.new("UIStroke"),
-	UITextSizeConstraint_44 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_92 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_72 = Instance.new("TextLabel"),
-	UIStroke_94 = Instance.new("UIStroke"),
 	UITextSizeConstraint_45 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_93 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_94 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_91 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_92 = Instance.new("UIAspectRatioConstraint"),
 	Frame_21 = Instance.new("Frame"),
-	ImageLabel_44 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_95 = Instance.new("UIAspectRatioConstraint"),
+	ImageLabel_42 = Instance.new("ImageLabel"),
+	UIAspectRatioConstraint_93 = Instance.new("UIAspectRatioConstraint"),
 	UICorner_53 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_96 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_94 = Instance.new("UIAspectRatioConstraint"),
+	UIStroke_94 = Instance.new("UIStroke"),
+	TextLabel_72 = Instance.new("TextLabel"),
 	UIStroke_95 = Instance.new("UIStroke"),
-	TextLabel_73 = Instance.new("TextLabel"),
-	UIStroke_96 = Instance.new("UIStroke"),
 	UITextSizeConstraint_46 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_97 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_95 = Instance.new("UIAspectRatioConstraint"),
 	ToggleBar = Instance.new("TextButton"),
 	onImage = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_98 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_96 = Instance.new("UIAspectRatioConstraint"),
 	offImage = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_99 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_100 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_97 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_98 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_47 = Instance.new("UITextSizeConstraint"),
 	cOE = Instance.new("Frame"),
+	UIStroke_96 = Instance.new("UIStroke"),
+	TextLabel_73 = Instance.new("TextLabel"),
 	UIStroke_97 = Instance.new("UIStroke"),
+	UITextSizeConstraint_48 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_99 = Instance.new("UIAspectRatioConstraint"),
 	TextLabel_74 = Instance.new("TextLabel"),
 	UIStroke_98 = Instance.new("UIStroke"),
-	UITextSizeConstraint_48 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_101 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_75 = Instance.new("TextLabel"),
-	UIStroke_99 = Instance.new("UIStroke"),
 	UITextSizeConstraint_49 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_102 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_100 = Instance.new("UIAspectRatioConstraint"),
 	Frame_22 = Instance.new("Frame"),
 	UICorner_54 = Instance.new("UICorner"),
-	ImageLabel_45 = Instance.new("ImageLabel"),
+	ImageLabel_43 = Instance.new("ImageLabel"),
+	UIAspectRatioConstraint_101 = Instance.new("UIAspectRatioConstraint"),
+	UIStroke_99 = Instance.new("UIStroke"),
+	UIAspectRatioConstraint_102 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_103 = Instance.new("UIAspectRatioConstraint"),
-	UIStroke_100 = Instance.new("UIStroke"),
-	UIAspectRatioConstraint_104 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_105 = Instance.new("UIAspectRatioConstraint"),
 	ToggleBar_2 = Instance.new("TextButton"),
 	offImage_2 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_106 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_104 = Instance.new("UIAspectRatioConstraint"),
 	onImage_2 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_107 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_108 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_105 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_106 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_50 = Instance.new("UITextSizeConstraint"),
-	TextLabel_76 = Instance.new("TextLabel"),
-	UIStroke_101 = Instance.new("UIStroke"),
+	TextLabel_75 = Instance.new("TextLabel"),
+	UIStroke_100 = Instance.new("UIStroke"),
 	UITextSizeConstraint_51 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_109 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_107 = Instance.new("UIAspectRatioConstraint"),
 	f3 = Instance.new("Frame"),
+	UIStroke_101 = Instance.new("UIStroke"),
+	TextLabel_76 = Instance.new("TextLabel"),
 	UIStroke_102 = Instance.new("UIStroke"),
+	UITextSizeConstraint_52 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_108 = Instance.new("UIAspectRatioConstraint"),
 	TextLabel_77 = Instance.new("TextLabel"),
 	UIStroke_103 = Instance.new("UIStroke"),
-	UITextSizeConstraint_52 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_110 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_78 = Instance.new("TextLabel"),
-	UIStroke_104 = Instance.new("UIStroke"),
 	UITextSizeConstraint_53 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_111 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_112 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_109 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_110 = Instance.new("UIAspectRatioConstraint"),
 	Frame_23 = Instance.new("Frame"),
 	UICorner_55 = Instance.new("UICorner"),
-	ImageLabel_46 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_113 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_114 = Instance.new("UIAspectRatioConstraint"),
-	UIStroke_105 = Instance.new("UIStroke"),
+	ImageLabel_44 = Instance.new("ImageLabel"),
+	UIAspectRatioConstraint_111 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_112 = Instance.new("UIAspectRatioConstraint"),
+	UIStroke_104 = Instance.new("UIStroke"),
 	ToggleBar_3 = Instance.new("TextButton"),
 	onImage_3 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_115 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_113 = Instance.new("UIAspectRatioConstraint"),
 	offImage_3 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_116 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_117 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_114 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_115 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_54 = Instance.new("UITextSizeConstraint"),
 	f4 = Instance.new("Frame"),
+	UIStroke_105 = Instance.new("UIStroke"),
+	TextLabel_78 = Instance.new("TextLabel"),
 	UIStroke_106 = Instance.new("UIStroke"),
+	UITextSizeConstraint_55 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_116 = Instance.new("UIAspectRatioConstraint"),
 	TextLabel_79 = Instance.new("TextLabel"),
 	UIStroke_107 = Instance.new("UIStroke"),
-	UITextSizeConstraint_55 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_118 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_80 = Instance.new("TextLabel"),
-	UIStroke_108 = Instance.new("UIStroke"),
 	UITextSizeConstraint_56 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_119 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_120 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_117 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_118 = Instance.new("UIAspectRatioConstraint"),
 	Frame_24 = Instance.new("Frame"),
 	UICorner_56 = Instance.new("UICorner"),
-	ImageLabel_47 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_121 = Instance.new("UIAspectRatioConstraint"),
+	ImageLabel_45 = Instance.new("ImageLabel"),
+	UIAspectRatioConstraint_119 = Instance.new("UIAspectRatioConstraint"),
 	UICorner_57 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_122 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_120 = Instance.new("UIAspectRatioConstraint"),
 	ToggleBar_4 = Instance.new("TextButton"),
 	onImage_4 = Instance.new("ImageLabel"),
 	offImage_4 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_123 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_121 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_57 = Instance.new("UITextSizeConstraint"),
 	shadow2_3 = Instance.new("Frame"),
 	UIGradient_12 = Instance.new("UIGradient"),
-	UIAspectRatioConstraint_124 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_122 = Instance.new("UIAspectRatioConstraint"),
 	f4_2 = Instance.new("Frame"),
+	UIStroke_108 = Instance.new("UIStroke"),
+	TextLabel_80 = Instance.new("TextLabel"),
 	UIStroke_109 = Instance.new("UIStroke"),
+	UITextSizeConstraint_58 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_123 = Instance.new("UIAspectRatioConstraint"),
 	TextLabel_81 = Instance.new("TextLabel"),
 	UIStroke_110 = Instance.new("UIStroke"),
-	UITextSizeConstraint_58 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_125 = Instance.new("UIAspectRatioConstraint"),
-	TextLabel_82 = Instance.new("TextLabel"),
-	UIStroke_111 = Instance.new("UIStroke"),
 	UITextSizeConstraint_59 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_126 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_127 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_124 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_125 = Instance.new("UIAspectRatioConstraint"),
 	Frame_25 = Instance.new("Frame"),
 	UICorner_58 = Instance.new("UICorner"),
-	ImageLabel_48 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_128 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_129 = Instance.new("UIAspectRatioConstraint"),
-	UIStroke_112 = Instance.new("UIStroke"),
+	ImageLabel_46 = Instance.new("ImageLabel"),
+	UIAspectRatioConstraint_126 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_127 = Instance.new("UIAspectRatioConstraint"),
+	UIStroke_111 = Instance.new("UIStroke"),
 	ToggleBar_5 = Instance.new("TextButton"),
 	onImage_5 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_130 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_128 = Instance.new("UIAspectRatioConstraint"),
 	offImage_5 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_131 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_132 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_129 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_130 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_60 = Instance.new("UITextSizeConstraint"),
 	f4_3 = Instance.new("Frame"),
+	UIStroke_112 = Instance.new("UIStroke"),
+	TextLabel_82 = Instance.new("TextLabel"),
 	UIStroke_113 = Instance.new("UIStroke"),
+	UIAspectRatioConstraint_131 = Instance.new("UIAspectRatioConstraint"),
+	UITextSizeConstraint_61 = Instance.new("UITextSizeConstraint"),
 	TextLabel_83 = Instance.new("TextLabel"),
 	UIStroke_114 = Instance.new("UIStroke"),
-	UIAspectRatioConstraint_133 = Instance.new("UIAspectRatioConstraint"),
-	UITextSizeConstraint_61 = Instance.new("UITextSizeConstraint"),
-	TextLabel_84 = Instance.new("TextLabel"),
-	UIStroke_115 = Instance.new("UIStroke"),
 	UITextSizeConstraint_62 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_134 = Instance.new("UIAspectRatioConstraint"),
 	Frame_26 = Instance.new("Frame"),
 	UICorner_59 = Instance.new("UICorner"),
-	ImageLabel_49 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_135 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_136 = Instance.new("UIAspectRatioConstraint"),
-	UIStroke_116 = Instance.new("UIStroke"),
+	ImageLabel_47 = Instance.new("ImageLabel"),
+	UIAspectRatioConstraint_132 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_133 = Instance.new("UIAspectRatioConstraint"),
+	UIStroke_115 = Instance.new("UIStroke"),
 	ToggleBar_6 = Instance.new("TextButton"),
 	onImage_6 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_137 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_134 = Instance.new("UIAspectRatioConstraint"),
 	offImage_6 = Instance.new("ImageLabel"),
-	UIAspectRatioConstraint_138 = Instance.new("UIAspectRatioConstraint"),
-	UIAspectRatioConstraint_139 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_135 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_136 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_63 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_140 = Instance.new("UIAspectRatioConstraint"),
-	UIStroke_117 = Instance.new("UIStroke"),
+	UIAspectRatioConstraint_137 = Instance.new("UIAspectRatioConstraint"),
+	UIStroke_116 = Instance.new("UIStroke"),
 	OpenKr = Instance.new("ImageLabel"),
 	openBtn = Instance.new("TextButton"),
 	UICorner_60 = Instance.new("UICorner"),
-	UIAspectRatioConstraint_141 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_138 = Instance.new("UIAspectRatioConstraint"),
 	UITextSizeConstraint_64 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_142 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_139 = Instance.new("UIAspectRatioConstraint"),
 }
 
 --Properties:
@@ -2833,7 +2825,7 @@ kr2.Page2.ZIndex = 999999999
 kr2.ImageLabel_25.Parent = kr2.Page2
 kr2.ImageLabel_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ImageLabel_25.BackgroundTransparency = 1.000
-kr2.ImageLabel_25.Position = UDim2.new(0, -9, 0, 27)
+kr2.ImageLabel_25.Position = UDim2.new(0, 19, 0, 60)
 kr2.ImageLabel_25.Size = UDim2.new(0, 41, 0, 41)
 kr2.ImageLabel_25.ZIndex = 999999999
 kr2.ImageLabel_25.Image = "rbxassetid://13618770731"
@@ -2926,7 +2918,7 @@ kr2.UIAspectRatioConstraint_59.Parent = kr2.ImageLabel_33
 kr2.ImageLabel_34.Parent = kr2.Page2
 kr2.ImageLabel_34.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ImageLabel_34.BackgroundTransparency = 1.000
-kr2.ImageLabel_34.Position = UDim2.new(0, 81, 0, 122)
+kr2.ImageLabel_34.Position = UDim2.new(0, 20, 0, -73)
 kr2.ImageLabel_34.Size = UDim2.new(0, 41, 0, 41)
 kr2.ImageLabel_34.ZIndex = 999999999
 kr2.ImageLabel_34.Image = "rbxassetid://13618770731"
@@ -2982,7 +2974,7 @@ kr2.UIAspectRatioConstraint_64.AspectRatio = 0.228
 kr2.ImageLabel_38.Parent = kr2.Page2
 kr2.ImageLabel_38.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ImageLabel_38.BackgroundTransparency = 1.000
-kr2.ImageLabel_38.Position = UDim2.new(0, 63, 0, 58)
+kr2.ImageLabel_38.Position = UDim2.new(0, 76, 0, 101)
 kr2.ImageLabel_38.Size = UDim2.new(0, 41, 0, 41)
 kr2.ImageLabel_38.ZIndex = 999999999
 kr2.ImageLabel_38.Image = "rbxassetid://13618770731"
@@ -3385,21 +3377,6 @@ kr2.UIStroke_87.Parent = kr2.TextLabel_66
 kr2.UITextSizeConstraint_40.Parent = kr2.TextLabel_66
 kr2.UITextSizeConstraint_40.MaxTextSize = 14
 
-kr2.TextLabel_67.Parent = kr2.Frame_20
-kr2.TextLabel_67.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_67.BackgroundTransparency = 1.000
-kr2.TextLabel_67.Position = UDim2.new(0, -8, 0, 182)
-kr2.TextLabel_67.Size = UDim2.new(0, 178, 0, 22)
-kr2.TextLabel_67.ZIndex = 999999999
-kr2.TextLabel_67.Font = Enum.Font.GothamBold
-kr2.TextLabel_67.Text = "Copyrights @krypton"
-kr2.TextLabel_67.TextColor3 = Color3.fromRGB(143, 154, 170)
-kr2.TextLabel_67.TextSize = 13.000
-kr2.TextLabel_67.TextWrapped = true
-
-kr2.UIStroke_88.Transparency = 0.700
-kr2.UIStroke_88.Parent = kr2.TextLabel_67
-
 kr2.UIAspectRatioConstraint_81.Parent = kr2.Frame_20
 kr2.UIAspectRatioConstraint_81.AspectRatio = 0.896
 
@@ -3414,50 +3391,47 @@ kr2.ImageLabel_40.ImageColor3 = Color3.fromRGB(51, 55, 61)
 
 kr2.UIAspectRatioConstraint_82.Parent = kr2.ImageLabel_40
 
+kr2.UIAspectRatioConstraint_83.Parent = kr2.Page2
+kr2.UIAspectRatioConstraint_83.AspectRatio = 2.016
+
 kr2.ImageLabel_41.Parent = kr2.Page2
 kr2.ImageLabel_41.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ImageLabel_41.BackgroundTransparency = 1.000
-kr2.ImageLabel_41.Position = UDim2.new(0, 17, 0, 104)
+kr2.ImageLabel_41.Position = UDim2.new(0, 74, 0, -55)
 kr2.ImageLabel_41.Size = UDim2.new(0, 41, 0, 41)
 kr2.ImageLabel_41.ZIndex = 999999999
 kr2.ImageLabel_41.Image = "rbxassetid://13618770731"
 kr2.ImageLabel_41.ImageColor3 = Color3.fromRGB(51, 55, 61)
 
-kr2.UIAspectRatioConstraint_83.Parent = kr2.ImageLabel_41
+kr2.UIAspectRatioConstraint_84.Parent = kr2.ImageLabel_41
 
-kr2.ImageLabel_42.Parent = kr2.Page2
-kr2.ImageLabel_42.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.ImageLabel_42.BackgroundTransparency = 1.000
-kr2.ImageLabel_42.Position = UDim2.new(0, 74, 0, -55)
-kr2.ImageLabel_42.Size = UDim2.new(0, 41, 0, 41)
-kr2.ImageLabel_42.ZIndex = 999999999
-kr2.ImageLabel_42.Image = "rbxassetid://13618770731"
-kr2.ImageLabel_42.ImageColor3 = Color3.fromRGB(51, 55, 61)
+kr2.TextLabel_67.Parent = kr2.welcomerFrame
+kr2.TextLabel_67.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_67.BackgroundTransparency = 1.000
+kr2.TextLabel_67.Position = UDim2.new(0, 110, 0, 121)
+kr2.TextLabel_67.Size = UDim2.new(0, 224, 0, 30)
+kr2.TextLabel_67.ZIndex = 999999999
+kr2.TextLabel_67.Font = Enum.Font.GothamBold
+kr2.TextLabel_67.Text = "V1.1-alpha is out!"
+kr2.TextLabel_67.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_67.TextScaled = true
+kr2.TextLabel_67.TextSize = 16.000
+kr2.TextLabel_67.TextWrapped = true
 
-kr2.UIAspectRatioConstraint_84.Parent = kr2.ImageLabel_42
+kr2.UIStroke_88.Transparency = 0.800
+kr2.UIStroke_88.Parent = kr2.TextLabel_67
 
-kr2.ImageLabel_43.Parent = kr2.Page2
-kr2.ImageLabel_43.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.ImageLabel_43.BackgroundTransparency = 1.000
-kr2.ImageLabel_43.Position = UDim2.new(0, 20, 0, -73)
-kr2.ImageLabel_43.Size = UDim2.new(0, 41, 0, 41)
-kr2.ImageLabel_43.ZIndex = 999999999
-kr2.ImageLabel_43.Image = "rbxassetid://13618770731"
-kr2.ImageLabel_43.ImageColor3 = Color3.fromRGB(51, 55, 61)
-
-kr2.UIAspectRatioConstraint_85.Parent = kr2.ImageLabel_43
-
-kr2.UIAspectRatioConstraint_86.Parent = kr2.Page2
-kr2.UIAspectRatioConstraint_86.AspectRatio = 2.016
+kr2.UITextSizeConstraint_41.Parent = kr2.TextLabel_67
+kr2.UITextSizeConstraint_41.MaxTextSize = 16
 
 kr2.TextLabel_68.Parent = kr2.welcomerFrame
 kr2.TextLabel_68.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_68.BackgroundTransparency = 1.000
-kr2.TextLabel_68.Position = UDim2.new(0, 110, 0, 121)
-kr2.TextLabel_68.Size = UDim2.new(0, 224, 0, 30)
+kr2.TextLabel_68.Position = UDim2.new(0, 103, 0, 6)
+kr2.TextLabel_68.Size = UDim2.new(0, 268, 0, 30)
 kr2.TextLabel_68.ZIndex = 999999999
 kr2.TextLabel_68.Font = Enum.Font.GothamBold
-kr2.TextLabel_68.Text = "V1.1-alpha is out!"
+kr2.TextLabel_68.Text = "Welcome to Krypton!"
 kr2.TextLabel_68.TextColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_68.TextScaled = true
 kr2.TextLabel_68.TextSize = 16.000
@@ -3466,33 +3440,14 @@ kr2.TextLabel_68.TextWrapped = true
 kr2.UIStroke_89.Transparency = 0.800
 kr2.UIStroke_89.Parent = kr2.TextLabel_68
 
-kr2.UITextSizeConstraint_41.Parent = kr2.TextLabel_68
-kr2.UITextSizeConstraint_41.MaxTextSize = 16
-
-kr2.TextLabel_69.Parent = kr2.welcomerFrame
-kr2.TextLabel_69.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_69.BackgroundTransparency = 1.000
-kr2.TextLabel_69.Position = UDim2.new(0, 103, 0, 6)
-kr2.TextLabel_69.Size = UDim2.new(0, 268, 0, 30)
-kr2.TextLabel_69.ZIndex = 999999999
-kr2.TextLabel_69.Font = Enum.Font.GothamBold
-kr2.TextLabel_69.Text = "Welcome to Krypton!"
-kr2.TextLabel_69.TextColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_69.TextScaled = true
-kr2.TextLabel_69.TextSize = 16.000
-kr2.TextLabel_69.TextWrapped = true
-
-kr2.UIStroke_90.Transparency = 0.800
-kr2.UIStroke_90.Parent = kr2.TextLabel_69
-
-kr2.UITextSizeConstraint_42.Parent = kr2.TextLabel_69
+kr2.UITextSizeConstraint_42.Parent = kr2.TextLabel_68
 kr2.UITextSizeConstraint_42.MaxTextSize = 16
 
-kr2.UIAspectRatioConstraint_87.Parent = kr2.TextLabel_69
-kr2.UIAspectRatioConstraint_87.AspectRatio = 8.933
+kr2.UIAspectRatioConstraint_85.Parent = kr2.TextLabel_68
+kr2.UIAspectRatioConstraint_85.AspectRatio = 8.933
 
-kr2.UIAspectRatioConstraint_88.Parent = kr2.welcomerFrame
-kr2.UIAspectRatioConstraint_88.AspectRatio = 1.498
+kr2.UIAspectRatioConstraint_86.Parent = kr2.welcomerFrame
+kr2.UIAspectRatioConstraint_86.AspectRatio = 1.498
 
 kr2.shadow2_2.Name = "shadow2"
 kr2.shadow2_2.Parent = kr2.MainMenu
@@ -3506,8 +3461,8 @@ kr2.UIGradient_11.Rotation = 359.69683837890625
 kr2.UIGradient_11.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
 kr2.UIGradient_11.Parent = kr2.shadow2_2
 
-kr2.UIAspectRatioConstraint_89.Parent = kr2.shadow2_2
-kr2.UIAspectRatioConstraint_89.AspectRatio = 0.084
+kr2.UIAspectRatioConstraint_87.Parent = kr2.shadow2_2
+kr2.UIAspectRatioConstraint_87.AspectRatio = 0.084
 
 kr2.SettingsPage.Name = "SettingsPage"
 kr2.SettingsPage.Parent = kr2.MainMenu
@@ -3520,28 +3475,28 @@ kr2.SettingsPage.Visible = false
 kr2.UICorner_52.CornerRadius = UDim.new(0, 12)
 kr2.UICorner_52.Parent = kr2.SettingsPage
 
-kr2.UIAspectRatioConstraint_90.Parent = kr2.SettingsPage
-kr2.UIAspectRatioConstraint_90.AspectRatio = 1.493
+kr2.UIAspectRatioConstraint_88.Parent = kr2.SettingsPage
+kr2.UIAspectRatioConstraint_88.AspectRatio = 1.493
 
-kr2.TextLabel_70.Parent = kr2.SettingsPage
-kr2.TextLabel_70.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_70.BackgroundTransparency = 1.000
-kr2.TextLabel_70.Position = UDim2.new(0, 15, 0, 24)
-kr2.TextLabel_70.Size = UDim2.new(0, 111, 0, 10)
-kr2.TextLabel_70.Font = Enum.Font.Gotham
-kr2.TextLabel_70.Text = "Settings"
-kr2.TextLabel_70.TextColor3 = Color3.fromRGB(227, 227, 227)
-kr2.TextLabel_70.TextSize = 15.000
-kr2.TextLabel_70.TextWrapped = true
+kr2.TextLabel_69.Parent = kr2.SettingsPage
+kr2.TextLabel_69.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_69.BackgroundTransparency = 1.000
+kr2.TextLabel_69.Position = UDim2.new(0, 15, 0, 24)
+kr2.TextLabel_69.Size = UDim2.new(0, 111, 0, 10)
+kr2.TextLabel_69.Font = Enum.Font.Gotham
+kr2.TextLabel_69.Text = "Settings"
+kr2.TextLabel_69.TextColor3 = Color3.fromRGB(227, 227, 227)
+kr2.TextLabel_69.TextSize = 15.000
+kr2.TextLabel_69.TextWrapped = true
 
-kr2.UIStroke_91.Transparency = 0.800
-kr2.UIStroke_91.Parent = kr2.TextLabel_70
+kr2.UIStroke_90.Transparency = 0.800
+kr2.UIStroke_90.Parent = kr2.TextLabel_69
 
-kr2.UITextSizeConstraint_43.Parent = kr2.TextLabel_70
+kr2.UITextSizeConstraint_43.Parent = kr2.TextLabel_69
 kr2.UITextSizeConstraint_43.MaxTextSize = 15
 
-kr2.UIAspectRatioConstraint_91.Parent = kr2.TextLabel_70
-kr2.UIAspectRatioConstraint_91.AspectRatio = 11.100
+kr2.UIAspectRatioConstraint_89.Parent = kr2.TextLabel_69
+kr2.UIAspectRatioConstraint_89.AspectRatio = 11.100
 
 kr2.f1.Name = "f1"
 kr2.f1.Parent = kr2.SettingsPage
@@ -3549,30 +3504,78 @@ kr2.f1.BackgroundColor3 = Color3.fromRGB(26, 27, 32)
 kr2.f1.Position = UDim2.new(0, 0, 0, 41)
 kr2.f1.Size = UDim2.new(0, 450, 0, 48)
 
-kr2.UIStroke_92.Color = Color3.fromRGB(37, 36, 42)
-kr2.UIStroke_92.Thickness = 2.000
-kr2.UIStroke_92.Parent = kr2.f1
+kr2.UIStroke_91.Color = Color3.fromRGB(37, 36, 42)
+kr2.UIStroke_91.Thickness = 2.000
+kr2.UIStroke_91.Parent = kr2.f1
+
+kr2.TextLabel_70.Parent = kr2.f1
+kr2.TextLabel_70.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_70.BackgroundTransparency = 1.000
+kr2.TextLabel_70.Position = UDim2.new(0, 31, 0, 6)
+kr2.TextLabel_70.Size = UDim2.new(0, 203, 0, 19)
+kr2.TextLabel_70.Font = Enum.Font.Gotham
+kr2.TextLabel_70.Text = "Unlock FPS"
+kr2.TextLabel_70.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_70.TextScaled = true
+kr2.TextLabel_70.TextSize = 17.000
+kr2.TextLabel_70.TextWrapped = true
+
+kr2.UIStroke_92.Transparency = 0.800
+kr2.UIStroke_92.Parent = kr2.TextLabel_70
+
+kr2.UITextSizeConstraint_44.Parent = kr2.TextLabel_70
+kr2.UITextSizeConstraint_44.MaxTextSize = 17
+
+kr2.UIAspectRatioConstraint_90.Parent = kr2.TextLabel_70
+kr2.UIAspectRatioConstraint_90.AspectRatio = 10.737
 
 kr2.TextLabel_71.Parent = kr2.f1
 kr2.TextLabel_71.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_71.BackgroundTransparency = 1.000
-kr2.TextLabel_71.Position = UDim2.new(0, 31, 0, 6)
-kr2.TextLabel_71.Size = UDim2.new(0, 203, 0, 19)
+kr2.TextLabel_71.Position = UDim2.new(0, 30, 0, 25)
+kr2.TextLabel_71.Size = UDim2.new(0, 287, 0, 13)
 kr2.TextLabel_71.Font = Enum.Font.Gotham
-kr2.TextLabel_71.Text = "Unlock FPS"
-kr2.TextLabel_71.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_71.Text = "Toggles maximum game FPS."
+kr2.TextLabel_71.TextColor3 = Color3.fromRGB(206, 206, 206)
 kr2.TextLabel_71.TextScaled = true
-kr2.TextLabel_71.TextSize = 17.000
+kr2.TextLabel_71.TextSize = 12.000
 kr2.TextLabel_71.TextWrapped = true
 
 kr2.UIStroke_93.Transparency = 0.800
 kr2.UIStroke_93.Parent = kr2.TextLabel_71
 
-kr2.UITextSizeConstraint_44.Parent = kr2.TextLabel_71
-kr2.UITextSizeConstraint_44.MaxTextSize = 17
+kr2.UITextSizeConstraint_45.Parent = kr2.TextLabel_71
+kr2.UITextSizeConstraint_45.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_92.Parent = kr2.TextLabel_71
-kr2.UIAspectRatioConstraint_92.AspectRatio = 10.737
+kr2.UIAspectRatioConstraint_91.Parent = kr2.TextLabel_71
+kr2.UIAspectRatioConstraint_91.AspectRatio = 22.077
+
+kr2.UIAspectRatioConstraint_92.Parent = kr2.f1
+kr2.UIAspectRatioConstraint_92.AspectRatio = 9.388
+
+kr2.Frame_21.Parent = kr2.f1
+kr2.Frame_21.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.Frame_21.Position = UDim2.new(0, 39, 0, 7)
+kr2.Frame_21.Size = UDim2.new(0, 34, 0, 32)
+
+kr2.ImageLabel_42.Parent = kr2.Frame_21
+kr2.ImageLabel_42.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.ImageLabel_42.BackgroundTransparency = 1.000
+kr2.ImageLabel_42.Position = UDim2.new(0, 3, 0, 3)
+kr2.ImageLabel_42.Size = UDim2.new(0, 26, 0, 25)
+kr2.ImageLabel_42.Image = "http://www.roblox.com/asset/?id=6026681578"
+
+kr2.UIAspectRatioConstraint_93.Parent = kr2.ImageLabel_42
+kr2.UIAspectRatioConstraint_93.AspectRatio = 1.040
+
+kr2.UICorner_53.CornerRadius = UDim.new(0, 6)
+kr2.UICorner_53.Parent = kr2.Frame_21
+
+kr2.UIAspectRatioConstraint_94.Parent = kr2.Frame_21
+kr2.UIAspectRatioConstraint_94.AspectRatio = 1.062
+
+kr2.UIStroke_94.Transparency = 0.800
+kr2.UIStroke_94.Parent = kr2.Frame_21
 
 kr2.TextLabel_72.Parent = kr2.f1
 kr2.TextLabel_72.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -3586,62 +3589,14 @@ kr2.TextLabel_72.TextScaled = true
 kr2.TextLabel_72.TextSize = 12.000
 kr2.TextLabel_72.TextWrapped = true
 
-kr2.UIStroke_94.Transparency = 0.800
-kr2.UIStroke_94.Parent = kr2.TextLabel_72
-
-kr2.UITextSizeConstraint_45.Parent = kr2.TextLabel_72
-kr2.UITextSizeConstraint_45.MaxTextSize = 12
-
-kr2.UIAspectRatioConstraint_93.Parent = kr2.TextLabel_72
-kr2.UIAspectRatioConstraint_93.AspectRatio = 22.077
-
-kr2.UIAspectRatioConstraint_94.Parent = kr2.f1
-kr2.UIAspectRatioConstraint_94.AspectRatio = 9.388
-
-kr2.Frame_21.Parent = kr2.f1
-kr2.Frame_21.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.Frame_21.Position = UDim2.new(0, 39, 0, 7)
-kr2.Frame_21.Size = UDim2.new(0, 34, 0, 32)
-
-kr2.ImageLabel_44.Parent = kr2.Frame_21
-kr2.ImageLabel_44.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.ImageLabel_44.BackgroundTransparency = 1.000
-kr2.ImageLabel_44.Position = UDim2.new(0, 3, 0, 3)
-kr2.ImageLabel_44.Size = UDim2.new(0, 26, 0, 25)
-kr2.ImageLabel_44.Image = "http://www.roblox.com/asset/?id=6026681578"
-
-kr2.UIAspectRatioConstraint_95.Parent = kr2.ImageLabel_44
-kr2.UIAspectRatioConstraint_95.AspectRatio = 1.040
-
-kr2.UICorner_53.CornerRadius = UDim.new(0, 6)
-kr2.UICorner_53.Parent = kr2.Frame_21
-
-kr2.UIAspectRatioConstraint_96.Parent = kr2.Frame_21
-kr2.UIAspectRatioConstraint_96.AspectRatio = 1.062
-
 kr2.UIStroke_95.Transparency = 0.800
-kr2.UIStroke_95.Parent = kr2.Frame_21
+kr2.UIStroke_95.Parent = kr2.TextLabel_72
 
-kr2.TextLabel_73.Parent = kr2.f1
-kr2.TextLabel_73.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_73.BackgroundTransparency = 1.000
-kr2.TextLabel_73.Position = UDim2.new(0, 30, 0, 25)
-kr2.TextLabel_73.Size = UDim2.new(0, 287, 0, 13)
-kr2.TextLabel_73.Font = Enum.Font.Gotham
-kr2.TextLabel_73.Text = "Toggles maximum game FPS."
-kr2.TextLabel_73.TextColor3 = Color3.fromRGB(206, 206, 206)
-kr2.TextLabel_73.TextScaled = true
-kr2.TextLabel_73.TextSize = 12.000
-kr2.TextLabel_73.TextWrapped = true
-
-kr2.UIStroke_96.Transparency = 0.800
-kr2.UIStroke_96.Parent = kr2.TextLabel_73
-
-kr2.UITextSizeConstraint_46.Parent = kr2.TextLabel_73
+kr2.UITextSizeConstraint_46.Parent = kr2.TextLabel_72
 kr2.UITextSizeConstraint_46.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_97.Parent = kr2.TextLabel_73
-kr2.UIAspectRatioConstraint_97.AspectRatio = 22.077
+kr2.UIAspectRatioConstraint_95.Parent = kr2.TextLabel_72
+kr2.UIAspectRatioConstraint_95.AspectRatio = 22.077
 
 kr2.ToggleBar.Name = "ToggleBar"
 kr2.ToggleBar.Parent = kr2.f1
@@ -3649,6 +3604,7 @@ kr2.ToggleBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ToggleBar.BackgroundTransparency = 1.000
 kr2.ToggleBar.Position = UDim2.new(0, 316, 0, 1)
 kr2.ToggleBar.Size = UDim2.new(0, 119, 0, 43)
+kr2.ToggleBar.ZIndex = 999999999
 kr2.ToggleBar.Font = Enum.Font.SourceSans
 kr2.ToggleBar.TextColor3 = Color3.fromRGB(26, 27, 32)
 kr2.ToggleBar.TextScaled = true
@@ -3665,8 +3621,8 @@ kr2.onImage.Visible = false
 kr2.onImage.Image = "http://www.roblox.com/asset/?id=6031068430"
 kr2.onImage.ImageColor3 = Color3.fromRGB(7, 171, 119)
 
-kr2.UIAspectRatioConstraint_98.Parent = kr2.onImage
-kr2.UIAspectRatioConstraint_98.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_96.Parent = kr2.onImage
+kr2.UIAspectRatioConstraint_96.AspectRatio = 1.053
 
 kr2.offImage.Name = "offImage"
 kr2.offImage.Parent = kr2.ToggleBar
@@ -3677,11 +3633,11 @@ kr2.offImage.Size = UDim2.new(0, 40, 0, 38)
 kr2.offImage.Image = "http://www.roblox.com/asset/?id=6031068429"
 kr2.offImage.ImageColor3 = Color3.fromRGB(32, 34, 40)
 
-kr2.UIAspectRatioConstraint_99.Parent = kr2.offImage
-kr2.UIAspectRatioConstraint_99.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_97.Parent = kr2.offImage
+kr2.UIAspectRatioConstraint_97.AspectRatio = 1.053
 
-kr2.UIAspectRatioConstraint_100.Parent = kr2.ToggleBar
-kr2.UIAspectRatioConstraint_100.AspectRatio = 2.767
+kr2.UIAspectRatioConstraint_98.Parent = kr2.ToggleBar
+kr2.UIAspectRatioConstraint_98.AspectRatio = 2.767
 
 kr2.UITextSizeConstraint_47.Parent = kr2.ToggleBar
 kr2.UITextSizeConstraint_47.MaxTextSize = 14
@@ -3693,51 +3649,51 @@ kr2.cOE.ClipsDescendants = true
 kr2.cOE.Position = UDim2.new(0, 1, 0, 89)
 kr2.cOE.Size = UDim2.new(0, 450, 0, 49)
 
-kr2.UIStroke_97.Color = Color3.fromRGB(37, 36, 42)
-kr2.UIStroke_97.Thickness = 2.000
-kr2.UIStroke_97.Parent = kr2.cOE
+kr2.UIStroke_96.Color = Color3.fromRGB(37, 36, 42)
+kr2.UIStroke_96.Thickness = 2.000
+kr2.UIStroke_96.Parent = kr2.cOE
+
+kr2.TextLabel_73.Parent = kr2.cOE
+kr2.TextLabel_73.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_73.BackgroundTransparency = 1.000
+kr2.TextLabel_73.Position = UDim2.new(0, 84, 0, 4)
+kr2.TextLabel_73.Size = UDim2.new(0, 141, 0, 21)
+kr2.TextLabel_73.Font = Enum.Font.Gotham
+kr2.TextLabel_73.Text = "Close on Execute"
+kr2.TextLabel_73.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_73.TextScaled = true
+kr2.TextLabel_73.TextSize = 17.000
+kr2.TextLabel_73.TextWrapped = true
+
+kr2.UIStroke_97.Transparency = 0.800
+kr2.UIStroke_97.Parent = kr2.TextLabel_73
+
+kr2.UITextSizeConstraint_48.Parent = kr2.TextLabel_73
+kr2.UITextSizeConstraint_48.MaxTextSize = 17
+
+kr2.UIAspectRatioConstraint_99.Parent = kr2.TextLabel_73
+kr2.UIAspectRatioConstraint_99.AspectRatio = 6.714
 
 kr2.TextLabel_74.Parent = kr2.cOE
 kr2.TextLabel_74.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_74.BackgroundTransparency = 1.000
-kr2.TextLabel_74.Position = UDim2.new(0, 84, 0, 4)
-kr2.TextLabel_74.Size = UDim2.new(0, 141, 0, 21)
+kr2.TextLabel_74.Position = UDim2.new(0, 28, 0, 26)
+kr2.TextLabel_74.Size = UDim2.new(0, 388, 0, 13)
 kr2.TextLabel_74.Font = Enum.Font.Gotham
-kr2.TextLabel_74.Text = "Close on Execute"
-kr2.TextLabel_74.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_74.Text = "Close Krypton whenever a script gets executed."
+kr2.TextLabel_74.TextColor3 = Color3.fromRGB(166, 166, 166)
 kr2.TextLabel_74.TextScaled = true
-kr2.TextLabel_74.TextSize = 17.000
+kr2.TextLabel_74.TextSize = 12.000
 kr2.TextLabel_74.TextWrapped = true
 
 kr2.UIStroke_98.Transparency = 0.800
 kr2.UIStroke_98.Parent = kr2.TextLabel_74
 
-kr2.UITextSizeConstraint_48.Parent = kr2.TextLabel_74
-kr2.UITextSizeConstraint_48.MaxTextSize = 17
-
-kr2.UIAspectRatioConstraint_101.Parent = kr2.TextLabel_74
-kr2.UIAspectRatioConstraint_101.AspectRatio = 6.714
-
-kr2.TextLabel_75.Parent = kr2.cOE
-kr2.TextLabel_75.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_75.BackgroundTransparency = 1.000
-kr2.TextLabel_75.Position = UDim2.new(0, 28, 0, 26)
-kr2.TextLabel_75.Size = UDim2.new(0, 388, 0, 13)
-kr2.TextLabel_75.Font = Enum.Font.Gotham
-kr2.TextLabel_75.Text = "Close Krypton whenever a script gets executed."
-kr2.TextLabel_75.TextColor3 = Color3.fromRGB(166, 166, 166)
-kr2.TextLabel_75.TextScaled = true
-kr2.TextLabel_75.TextSize = 12.000
-kr2.TextLabel_75.TextWrapped = true
-
-kr2.UIStroke_99.Transparency = 0.800
-kr2.UIStroke_99.Parent = kr2.TextLabel_75
-
-kr2.UITextSizeConstraint_49.Parent = kr2.TextLabel_75
+kr2.UITextSizeConstraint_49.Parent = kr2.TextLabel_74
 kr2.UITextSizeConstraint_49.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_102.Parent = kr2.TextLabel_75
-kr2.UIAspectRatioConstraint_102.AspectRatio = 29.846
+kr2.UIAspectRatioConstraint_100.Parent = kr2.TextLabel_74
+kr2.UIAspectRatioConstraint_100.AspectRatio = 29.846
 
 kr2.Frame_22.Parent = kr2.cOE
 kr2.Frame_22.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
@@ -3747,23 +3703,23 @@ kr2.Frame_22.Size = UDim2.new(0, 34, 0, 32)
 kr2.UICorner_54.CornerRadius = UDim.new(0, 6)
 kr2.UICorner_54.Parent = kr2.Frame_22
 
-kr2.ImageLabel_45.Parent = kr2.Frame_22
-kr2.ImageLabel_45.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.ImageLabel_45.BackgroundTransparency = 1.000
-kr2.ImageLabel_45.Position = UDim2.new(0.10712029, 0, 0.0707330704, 0)
-kr2.ImageLabel_45.Size = UDim2.new(0, 26, 0, 26)
-kr2.ImageLabel_45.Image = "http://www.roblox.com/asset/?id=6023426928"
+kr2.ImageLabel_43.Parent = kr2.Frame_22
+kr2.ImageLabel_43.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.ImageLabel_43.BackgroundTransparency = 1.000
+kr2.ImageLabel_43.Position = UDim2.new(0.10712029, 0, 0.0707330704, 0)
+kr2.ImageLabel_43.Size = UDim2.new(0, 26, 0, 26)
+kr2.ImageLabel_43.Image = "http://www.roblox.com/asset/?id=6023426928"
 
-kr2.UIAspectRatioConstraint_103.Parent = kr2.ImageLabel_45
+kr2.UIAspectRatioConstraint_101.Parent = kr2.ImageLabel_43
 
-kr2.UIStroke_100.Transparency = 0.800
-kr2.UIStroke_100.Parent = kr2.Frame_22
+kr2.UIStroke_99.Transparency = 0.800
+kr2.UIStroke_99.Parent = kr2.Frame_22
 
-kr2.UIAspectRatioConstraint_104.Parent = kr2.Frame_22
-kr2.UIAspectRatioConstraint_104.AspectRatio = 1.062
+kr2.UIAspectRatioConstraint_102.Parent = kr2.Frame_22
+kr2.UIAspectRatioConstraint_102.AspectRatio = 1.062
 
-kr2.UIAspectRatioConstraint_105.Parent = kr2.cOE
-kr2.UIAspectRatioConstraint_105.AspectRatio = 9.200
+kr2.UIAspectRatioConstraint_103.Parent = kr2.cOE
+kr2.UIAspectRatioConstraint_103.AspectRatio = 9.200
 
 kr2.ToggleBar_2.Name = "ToggleBar"
 kr2.ToggleBar_2.Parent = kr2.cOE
@@ -3771,6 +3727,7 @@ kr2.ToggleBar_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ToggleBar_2.BackgroundTransparency = 1.000
 kr2.ToggleBar_2.Position = UDim2.new(0, 316, 0, 2)
 kr2.ToggleBar_2.Size = UDim2.new(0, 119, 0, 43)
+kr2.ToggleBar_2.ZIndex = 999999999
 kr2.ToggleBar_2.Font = Enum.Font.SourceSans
 kr2.ToggleBar_2.TextColor3 = Color3.fromRGB(26, 27, 32)
 kr2.ToggleBar_2.TextScaled = true
@@ -3786,8 +3743,8 @@ kr2.offImage_2.Size = UDim2.new(0, 40, 0, 38)
 kr2.offImage_2.Image = "http://www.roblox.com/asset/?id=6031068429"
 kr2.offImage_2.ImageColor3 = Color3.fromRGB(32, 34, 40)
 
-kr2.UIAspectRatioConstraint_106.Parent = kr2.offImage_2
-kr2.UIAspectRatioConstraint_106.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_104.Parent = kr2.offImage_2
+kr2.UIAspectRatioConstraint_104.AspectRatio = 1.053
 
 kr2.onImage_2.Name = "onImage"
 kr2.onImage_2.Parent = kr2.ToggleBar_2
@@ -3799,35 +3756,35 @@ kr2.onImage_2.Visible = false
 kr2.onImage_2.Image = "http://www.roblox.com/asset/?id=6031068430"
 kr2.onImage_2.ImageColor3 = Color3.fromRGB(7, 171, 119)
 
-kr2.UIAspectRatioConstraint_107.Parent = kr2.onImage_2
-kr2.UIAspectRatioConstraint_107.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_105.Parent = kr2.onImage_2
+kr2.UIAspectRatioConstraint_105.AspectRatio = 1.053
 
-kr2.UIAspectRatioConstraint_108.Parent = kr2.ToggleBar_2
-kr2.UIAspectRatioConstraint_108.AspectRatio = 2.767
+kr2.UIAspectRatioConstraint_106.Parent = kr2.ToggleBar_2
+kr2.UIAspectRatioConstraint_106.AspectRatio = 2.767
 
 kr2.UITextSizeConstraint_50.Parent = kr2.ToggleBar_2
 kr2.UITextSizeConstraint_50.MaxTextSize = 14
 
-kr2.TextLabel_76.Parent = kr2.cOE
-kr2.TextLabel_76.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_76.BackgroundTransparency = 1.000
-kr2.TextLabel_76.Position = UDim2.new(0, 28, 0, 26)
-kr2.TextLabel_76.Size = UDim2.new(0, 388, 0, 13)
-kr2.TextLabel_76.Font = Enum.Font.Gotham
-kr2.TextLabel_76.Text = "Close Krypton whenever a script gets executed."
-kr2.TextLabel_76.TextColor3 = Color3.fromRGB(166, 166, 166)
-kr2.TextLabel_76.TextScaled = true
-kr2.TextLabel_76.TextSize = 12.000
-kr2.TextLabel_76.TextWrapped = true
+kr2.TextLabel_75.Parent = kr2.cOE
+kr2.TextLabel_75.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_75.BackgroundTransparency = 1.000
+kr2.TextLabel_75.Position = UDim2.new(0, 28, 0, 26)
+kr2.TextLabel_75.Size = UDim2.new(0, 388, 0, 13)
+kr2.TextLabel_75.Font = Enum.Font.Gotham
+kr2.TextLabel_75.Text = "Close Krypton whenever a script gets executed."
+kr2.TextLabel_75.TextColor3 = Color3.fromRGB(166, 166, 166)
+kr2.TextLabel_75.TextScaled = true
+kr2.TextLabel_75.TextSize = 12.000
+kr2.TextLabel_75.TextWrapped = true
 
-kr2.UIStroke_101.Transparency = 0.800
-kr2.UIStroke_101.Parent = kr2.TextLabel_76
+kr2.UIStroke_100.Transparency = 0.800
+kr2.UIStroke_100.Parent = kr2.TextLabel_75
 
-kr2.UITextSizeConstraint_51.Parent = kr2.TextLabel_76
+kr2.UITextSizeConstraint_51.Parent = kr2.TextLabel_75
 kr2.UITextSizeConstraint_51.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_109.Parent = kr2.TextLabel_76
-kr2.UIAspectRatioConstraint_109.AspectRatio = 29.846
+kr2.UIAspectRatioConstraint_107.Parent = kr2.TextLabel_75
+kr2.UIAspectRatioConstraint_107.AspectRatio = 29.846
 
 kr2.f3.Name = "f3"
 kr2.f3.Parent = kr2.SettingsPage
@@ -3836,54 +3793,54 @@ kr2.f3.ClipsDescendants = true
 kr2.f3.Position = UDim2.new(0, 0, 0, 141)
 kr2.f3.Size = UDim2.new(0, 450, 0, 49)
 
-kr2.UIStroke_102.Color = Color3.fromRGB(37, 36, 42)
-kr2.UIStroke_102.Thickness = 2.000
-kr2.UIStroke_102.Parent = kr2.f3
+kr2.UIStroke_101.Color = Color3.fromRGB(37, 36, 42)
+kr2.UIStroke_101.Thickness = 2.000
+kr2.UIStroke_101.Parent = kr2.f3
+
+kr2.TextLabel_76.Parent = kr2.f3
+kr2.TextLabel_76.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_76.BackgroundTransparency = 1.000
+kr2.TextLabel_76.Position = UDim2.new(0, 85, 0, 4)
+kr2.TextLabel_76.Size = UDim2.new(0, 169, 0, 22)
+kr2.TextLabel_76.Font = Enum.Font.Gotham
+kr2.TextLabel_76.Text = "Smaller Open Button"
+kr2.TextLabel_76.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_76.TextScaled = true
+kr2.TextLabel_76.TextSize = 17.000
+kr2.TextLabel_76.TextWrapped = true
+
+kr2.UIStroke_102.Transparency = 0.800
+kr2.UIStroke_102.Parent = kr2.TextLabel_76
+
+kr2.UITextSizeConstraint_52.Parent = kr2.TextLabel_76
+kr2.UITextSizeConstraint_52.MaxTextSize = 17
+
+kr2.UIAspectRatioConstraint_108.Parent = kr2.TextLabel_76
+kr2.UIAspectRatioConstraint_108.AspectRatio = 7.682
 
 kr2.TextLabel_77.Parent = kr2.f3
 kr2.TextLabel_77.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_77.BackgroundTransparency = 1.000
-kr2.TextLabel_77.Position = UDim2.new(0, 85, 0, 4)
-kr2.TextLabel_77.Size = UDim2.new(0, 169, 0, 22)
+kr2.TextLabel_77.Position = UDim2.new(0, 28, 0, 26)
+kr2.TextLabel_77.Size = UDim2.new(0, 417, 0, 13)
 kr2.TextLabel_77.Font = Enum.Font.Gotham
-kr2.TextLabel_77.Text = "Smaller Open Button"
-kr2.TextLabel_77.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_77.Text = "Make the Open Button smaller then the default size."
+kr2.TextLabel_77.TextColor3 = Color3.fromRGB(206, 206, 206)
 kr2.TextLabel_77.TextScaled = true
-kr2.TextLabel_77.TextSize = 17.000
+kr2.TextLabel_77.TextSize = 12.000
 kr2.TextLabel_77.TextWrapped = true
 
 kr2.UIStroke_103.Transparency = 0.800
 kr2.UIStroke_103.Parent = kr2.TextLabel_77
 
-kr2.UITextSizeConstraint_52.Parent = kr2.TextLabel_77
-kr2.UITextSizeConstraint_52.MaxTextSize = 17
-
-kr2.UIAspectRatioConstraint_110.Parent = kr2.TextLabel_77
-kr2.UIAspectRatioConstraint_110.AspectRatio = 7.682
-
-kr2.TextLabel_78.Parent = kr2.f3
-kr2.TextLabel_78.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_78.BackgroundTransparency = 1.000
-kr2.TextLabel_78.Position = UDim2.new(0, 28, 0, 26)
-kr2.TextLabel_78.Size = UDim2.new(0, 417, 0, 13)
-kr2.TextLabel_78.Font = Enum.Font.Gotham
-kr2.TextLabel_78.Text = "Make the Open Button smaller then the default size."
-kr2.TextLabel_78.TextColor3 = Color3.fromRGB(206, 206, 206)
-kr2.TextLabel_78.TextScaled = true
-kr2.TextLabel_78.TextSize = 12.000
-kr2.TextLabel_78.TextWrapped = true
-
-kr2.UIStroke_104.Transparency = 0.800
-kr2.UIStroke_104.Parent = kr2.TextLabel_78
-
-kr2.UITextSizeConstraint_53.Parent = kr2.TextLabel_78
+kr2.UITextSizeConstraint_53.Parent = kr2.TextLabel_77
 kr2.UITextSizeConstraint_53.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_111.Parent = kr2.TextLabel_78
-kr2.UIAspectRatioConstraint_111.AspectRatio = 32.077
+kr2.UIAspectRatioConstraint_109.Parent = kr2.TextLabel_77
+kr2.UIAspectRatioConstraint_109.AspectRatio = 32.077
 
-kr2.UIAspectRatioConstraint_112.Parent = kr2.f3
-kr2.UIAspectRatioConstraint_112.AspectRatio = 9.200
+kr2.UIAspectRatioConstraint_110.Parent = kr2.f3
+kr2.UIAspectRatioConstraint_110.AspectRatio = 9.200
 
 kr2.Frame_23.Parent = kr2.f3
 kr2.Frame_23.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
@@ -3893,21 +3850,21 @@ kr2.Frame_23.Size = UDim2.new(0, 34, 0, 32)
 kr2.UICorner_55.CornerRadius = UDim.new(0, 6)
 kr2.UICorner_55.Parent = kr2.Frame_23
 
-kr2.ImageLabel_46.Parent = kr2.Frame_23
-kr2.ImageLabel_46.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.ImageLabel_46.BackgroundTransparency = 1.000
-kr2.ImageLabel_46.Position = UDim2.new(0, 4, 0, 4)
-kr2.ImageLabel_46.Size = UDim2.new(0, 25, 0, 24)
-kr2.ImageLabel_46.Image = "rbxassetid://13776610093"
+kr2.ImageLabel_44.Parent = kr2.Frame_23
+kr2.ImageLabel_44.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.ImageLabel_44.BackgroundTransparency = 1.000
+kr2.ImageLabel_44.Position = UDim2.new(0, 4, 0, 4)
+kr2.ImageLabel_44.Size = UDim2.new(0, 25, 0, 24)
+kr2.ImageLabel_44.Image = "rbxassetid://13776610093"
 
-kr2.UIAspectRatioConstraint_113.Parent = kr2.ImageLabel_46
-kr2.UIAspectRatioConstraint_113.AspectRatio = 1.042
+kr2.UIAspectRatioConstraint_111.Parent = kr2.ImageLabel_44
+kr2.UIAspectRatioConstraint_111.AspectRatio = 1.042
 
-kr2.UIAspectRatioConstraint_114.Parent = kr2.Frame_23
-kr2.UIAspectRatioConstraint_114.AspectRatio = 1.062
+kr2.UIAspectRatioConstraint_112.Parent = kr2.Frame_23
+kr2.UIAspectRatioConstraint_112.AspectRatio = 1.062
 
-kr2.UIStroke_105.Transparency = 0.800
-kr2.UIStroke_105.Parent = kr2.Frame_23
+kr2.UIStroke_104.Transparency = 0.800
+kr2.UIStroke_104.Parent = kr2.Frame_23
 
 kr2.ToggleBar_3.Name = "ToggleBar"
 kr2.ToggleBar_3.Parent = kr2.f3
@@ -3915,6 +3872,7 @@ kr2.ToggleBar_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ToggleBar_3.BackgroundTransparency = 1.000
 kr2.ToggleBar_3.Position = UDim2.new(0, 316, 0, 2)
 kr2.ToggleBar_3.Size = UDim2.new(0, 119, 0, 43)
+kr2.ToggleBar_3.ZIndex = 999999999
 kr2.ToggleBar_3.Font = Enum.Font.SourceSans
 kr2.ToggleBar_3.TextColor3 = Color3.fromRGB(26, 27, 32)
 kr2.ToggleBar_3.TextScaled = true
@@ -3931,8 +3889,8 @@ kr2.onImage_3.Visible = false
 kr2.onImage_3.Image = "http://www.roblox.com/asset/?id=6031068430"
 kr2.onImage_3.ImageColor3 = Color3.fromRGB(7, 171, 119)
 
-kr2.UIAspectRatioConstraint_115.Parent = kr2.onImage_3
-kr2.UIAspectRatioConstraint_115.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_113.Parent = kr2.onImage_3
+kr2.UIAspectRatioConstraint_113.AspectRatio = 1.053
 
 kr2.offImage_3.Name = "offImage"
 kr2.offImage_3.Parent = kr2.ToggleBar_3
@@ -3943,11 +3901,11 @@ kr2.offImage_3.Size = UDim2.new(0, 40, 0, 38)
 kr2.offImage_3.Image = "http://www.roblox.com/asset/?id=6031068429"
 kr2.offImage_3.ImageColor3 = Color3.fromRGB(32, 34, 40)
 
-kr2.UIAspectRatioConstraint_116.Parent = kr2.offImage_3
-kr2.UIAspectRatioConstraint_116.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_114.Parent = kr2.offImage_3
+kr2.UIAspectRatioConstraint_114.AspectRatio = 1.053
 
-kr2.UIAspectRatioConstraint_117.Parent = kr2.ToggleBar_3
-kr2.UIAspectRatioConstraint_117.AspectRatio = 2.767
+kr2.UIAspectRatioConstraint_115.Parent = kr2.ToggleBar_3
+kr2.UIAspectRatioConstraint_115.AspectRatio = 2.767
 
 kr2.UITextSizeConstraint_54.Parent = kr2.ToggleBar_3
 kr2.UITextSizeConstraint_54.MaxTextSize = 14
@@ -3959,54 +3917,54 @@ kr2.f4.ClipsDescendants = true
 kr2.f4.Position = UDim2.new(0, 0, 0, 190)
 kr2.f4.Size = UDim2.new(0, 450, 0, 49)
 
-kr2.UIStroke_106.Color = Color3.fromRGB(37, 36, 42)
-kr2.UIStroke_106.Thickness = 2.000
-kr2.UIStroke_106.Parent = kr2.f4
+kr2.UIStroke_105.Color = Color3.fromRGB(37, 36, 42)
+kr2.UIStroke_105.Thickness = 2.000
+kr2.UIStroke_105.Parent = kr2.f4
+
+kr2.TextLabel_78.Parent = kr2.f4
+kr2.TextLabel_78.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_78.BackgroundTransparency = 1.000
+kr2.TextLabel_78.Position = UDim2.new(0, 88, 0, 4)
+kr2.TextLabel_78.Size = UDim2.new(0, 69, 0, 22)
+kr2.TextLabel_78.Font = Enum.Font.Gotham
+kr2.TextLabel_78.Text = "Minimap"
+kr2.TextLabel_78.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_78.TextScaled = true
+kr2.TextLabel_78.TextSize = 17.000
+kr2.TextLabel_78.TextWrapped = true
+
+kr2.UIStroke_106.Transparency = 0.800
+kr2.UIStroke_106.Parent = kr2.TextLabel_78
+
+kr2.UITextSizeConstraint_55.Parent = kr2.TextLabel_78
+kr2.UITextSizeConstraint_55.MaxTextSize = 17
+
+kr2.UIAspectRatioConstraint_116.Parent = kr2.TextLabel_78
+kr2.UIAspectRatioConstraint_116.AspectRatio = 3.136
 
 kr2.TextLabel_79.Parent = kr2.f4
 kr2.TextLabel_79.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_79.BackgroundTransparency = 1.000
-kr2.TextLabel_79.Position = UDim2.new(0, 88, 0, 4)
-kr2.TextLabel_79.Size = UDim2.new(0, 69, 0, 22)
+kr2.TextLabel_79.Position = UDim2.new(0, 28, 0, 26)
+kr2.TextLabel_79.Size = UDim2.new(0, 333, 0, 13)
 kr2.TextLabel_79.Font = Enum.Font.Gotham
-kr2.TextLabel_79.Text = "Minimap"
-kr2.TextLabel_79.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_79.Text = "Enables a minimap beside the Editor"
+kr2.TextLabel_79.TextColor3 = Color3.fromRGB(206, 206, 206)
 kr2.TextLabel_79.TextScaled = true
-kr2.TextLabel_79.TextSize = 17.000
+kr2.TextLabel_79.TextSize = 12.000
 kr2.TextLabel_79.TextWrapped = true
 
 kr2.UIStroke_107.Transparency = 0.800
 kr2.UIStroke_107.Parent = kr2.TextLabel_79
 
-kr2.UITextSizeConstraint_55.Parent = kr2.TextLabel_79
-kr2.UITextSizeConstraint_55.MaxTextSize = 17
-
-kr2.UIAspectRatioConstraint_118.Parent = kr2.TextLabel_79
-kr2.UIAspectRatioConstraint_118.AspectRatio = 3.136
-
-kr2.TextLabel_80.Parent = kr2.f4
-kr2.TextLabel_80.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_80.BackgroundTransparency = 1.000
-kr2.TextLabel_80.Position = UDim2.new(0, 28, 0, 26)
-kr2.TextLabel_80.Size = UDim2.new(0, 333, 0, 13)
-kr2.TextLabel_80.Font = Enum.Font.Gotham
-kr2.TextLabel_80.Text = "Enables a minimap beside the Editor"
-kr2.TextLabel_80.TextColor3 = Color3.fromRGB(206, 206, 206)
-kr2.TextLabel_80.TextScaled = true
-kr2.TextLabel_80.TextSize = 12.000
-kr2.TextLabel_80.TextWrapped = true
-
-kr2.UIStroke_108.Transparency = 0.800
-kr2.UIStroke_108.Parent = kr2.TextLabel_80
-
-kr2.UITextSizeConstraint_56.Parent = kr2.TextLabel_80
+kr2.UITextSizeConstraint_56.Parent = kr2.TextLabel_79
 kr2.UITextSizeConstraint_56.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_119.Parent = kr2.TextLabel_80
-kr2.UIAspectRatioConstraint_119.AspectRatio = 25.615
+kr2.UIAspectRatioConstraint_117.Parent = kr2.TextLabel_79
+kr2.UIAspectRatioConstraint_117.AspectRatio = 25.615
 
-kr2.UIAspectRatioConstraint_120.Parent = kr2.f4
-kr2.UIAspectRatioConstraint_120.AspectRatio = 9.200
+kr2.UIAspectRatioConstraint_118.Parent = kr2.f4
+kr2.UIAspectRatioConstraint_118.AspectRatio = 9.200
 
 kr2.Frame_24.Parent = kr2.f4
 kr2.Frame_24.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
@@ -4016,21 +3974,21 @@ kr2.Frame_24.Size = UDim2.new(0, 34, 0, 32)
 kr2.UICorner_56.CornerRadius = UDim.new(0, 6)
 kr2.UICorner_56.Parent = kr2.Frame_24
 
-kr2.ImageLabel_47.Parent = kr2.Frame_24
-kr2.ImageLabel_47.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.ImageLabel_47.BackgroundTransparency = 1.000
-kr2.ImageLabel_47.Position = UDim2.new(0, 4, 0, 3)
-kr2.ImageLabel_47.Size = UDim2.new(0, 24, 0, 23)
-kr2.ImageLabel_47.Image = "http://www.roblox.com/asset/?id=6034684930"
+kr2.ImageLabel_45.Parent = kr2.Frame_24
+kr2.ImageLabel_45.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.ImageLabel_45.BackgroundTransparency = 1.000
+kr2.ImageLabel_45.Position = UDim2.new(0, 4, 0, 3)
+kr2.ImageLabel_45.Size = UDim2.new(0, 24, 0, 23)
+kr2.ImageLabel_45.Image = "http://www.roblox.com/asset/?id=6034684930"
 
-kr2.UIAspectRatioConstraint_121.Parent = kr2.ImageLabel_47
-kr2.UIAspectRatioConstraint_121.AspectRatio = 1.043
+kr2.UIAspectRatioConstraint_119.Parent = kr2.ImageLabel_45
+kr2.UIAspectRatioConstraint_119.AspectRatio = 1.043
 
 kr2.UICorner_57.CornerRadius = UDim.new(0, 6)
 kr2.UICorner_57.Parent = kr2.Frame_24
 
-kr2.UIAspectRatioConstraint_122.Parent = kr2.Frame_24
-kr2.UIAspectRatioConstraint_122.AspectRatio = 1.062
+kr2.UIAspectRatioConstraint_120.Parent = kr2.Frame_24
+kr2.UIAspectRatioConstraint_120.AspectRatio = 1.062
 
 kr2.ToggleBar_4.Name = "ToggleBar"
 kr2.ToggleBar_4.Parent = kr2.f4
@@ -4063,8 +4021,8 @@ kr2.offImage_4.Image = "http://www.roblox.com/asset/?id=6031068429"
 kr2.offImage_4.ImageColor3 = Color3.fromRGB(32, 34, 40)
 kr2.offImage_4.ImageTransparency = 1.000
 
-kr2.UIAspectRatioConstraint_123.Parent = kr2.ToggleBar_4
-kr2.UIAspectRatioConstraint_123.AspectRatio = 2.767
+kr2.UIAspectRatioConstraint_121.Parent = kr2.ToggleBar_4
+kr2.UIAspectRatioConstraint_121.AspectRatio = 2.767
 
 kr2.UITextSizeConstraint_57.Parent = kr2.ToggleBar_4
 kr2.UITextSizeConstraint_57.MaxTextSize = 14
@@ -4081,8 +4039,8 @@ kr2.UIGradient_12.Rotation = 90
 kr2.UIGradient_12.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
 kr2.UIGradient_12.Parent = kr2.shadow2_3
 
-kr2.UIAspectRatioConstraint_124.Parent = kr2.shadow2_3
-kr2.UIAspectRatioConstraint_124.AspectRatio = 11.457
+kr2.UIAspectRatioConstraint_122.Parent = kr2.shadow2_3
+kr2.UIAspectRatioConstraint_122.AspectRatio = 11.457
 
 kr2.f4_2.Name = "f4"
 kr2.f4_2.Parent = kr2.SettingsPage
@@ -4091,54 +4049,54 @@ kr2.f4_2.ClipsDescendants = true
 kr2.f4_2.Position = UDim2.new(0, 0, 0, 190)
 kr2.f4_2.Size = UDim2.new(0, 450, 0, 49)
 
-kr2.UIStroke_109.Color = Color3.fromRGB(37, 36, 42)
-kr2.UIStroke_109.Thickness = 2.000
-kr2.UIStroke_109.Parent = kr2.f4_2
+kr2.UIStroke_108.Color = Color3.fromRGB(37, 36, 42)
+kr2.UIStroke_108.Thickness = 2.000
+kr2.UIStroke_108.Parent = kr2.f4_2
+
+kr2.TextLabel_80.Parent = kr2.f4_2
+kr2.TextLabel_80.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_80.BackgroundTransparency = 1.000
+kr2.TextLabel_80.Position = UDim2.new(0, 88, 0, 4)
+kr2.TextLabel_80.Size = UDim2.new(0, 69, 0, 22)
+kr2.TextLabel_80.Font = Enum.Font.Gotham
+kr2.TextLabel_80.Text = "Minimap"
+kr2.TextLabel_80.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_80.TextScaled = true
+kr2.TextLabel_80.TextSize = 17.000
+kr2.TextLabel_80.TextWrapped = true
+
+kr2.UIStroke_109.Transparency = 0.800
+kr2.UIStroke_109.Parent = kr2.TextLabel_80
+
+kr2.UITextSizeConstraint_58.Parent = kr2.TextLabel_80
+kr2.UITextSizeConstraint_58.MaxTextSize = 17
+
+kr2.UIAspectRatioConstraint_123.Parent = kr2.TextLabel_80
+kr2.UIAspectRatioConstraint_123.AspectRatio = 3.136
 
 kr2.TextLabel_81.Parent = kr2.f4_2
 kr2.TextLabel_81.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_81.BackgroundTransparency = 1.000
-kr2.TextLabel_81.Position = UDim2.new(0, 88, 0, 4)
-kr2.TextLabel_81.Size = UDim2.new(0, 69, 0, 22)
+kr2.TextLabel_81.Position = UDim2.new(0, 28, 0, 26)
+kr2.TextLabel_81.Size = UDim2.new(0, 333, 0, 13)
 kr2.TextLabel_81.Font = Enum.Font.Gotham
-kr2.TextLabel_81.Text = "Minimap"
-kr2.TextLabel_81.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_81.Text = "Enables a minimap beside the Editor"
+kr2.TextLabel_81.TextColor3 = Color3.fromRGB(206, 206, 206)
 kr2.TextLabel_81.TextScaled = true
-kr2.TextLabel_81.TextSize = 17.000
+kr2.TextLabel_81.TextSize = 12.000
 kr2.TextLabel_81.TextWrapped = true
 
 kr2.UIStroke_110.Transparency = 0.800
 kr2.UIStroke_110.Parent = kr2.TextLabel_81
 
-kr2.UITextSizeConstraint_58.Parent = kr2.TextLabel_81
-kr2.UITextSizeConstraint_58.MaxTextSize = 17
-
-kr2.UIAspectRatioConstraint_125.Parent = kr2.TextLabel_81
-kr2.UIAspectRatioConstraint_125.AspectRatio = 3.136
-
-kr2.TextLabel_82.Parent = kr2.f4_2
-kr2.TextLabel_82.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_82.BackgroundTransparency = 1.000
-kr2.TextLabel_82.Position = UDim2.new(0, 28, 0, 26)
-kr2.TextLabel_82.Size = UDim2.new(0, 333, 0, 13)
-kr2.TextLabel_82.Font = Enum.Font.Gotham
-kr2.TextLabel_82.Text = "Enables a minimap beside the Editor"
-kr2.TextLabel_82.TextColor3 = Color3.fromRGB(206, 206, 206)
-kr2.TextLabel_82.TextScaled = true
-kr2.TextLabel_82.TextSize = 12.000
-kr2.TextLabel_82.TextWrapped = true
-
-kr2.UIStroke_111.Transparency = 0.800
-kr2.UIStroke_111.Parent = kr2.TextLabel_82
-
-kr2.UITextSizeConstraint_59.Parent = kr2.TextLabel_82
+kr2.UITextSizeConstraint_59.Parent = kr2.TextLabel_81
 kr2.UITextSizeConstraint_59.MaxTextSize = 12
 
-kr2.UIAspectRatioConstraint_126.Parent = kr2.TextLabel_82
-kr2.UIAspectRatioConstraint_126.AspectRatio = 25.615
+kr2.UIAspectRatioConstraint_124.Parent = kr2.TextLabel_81
+kr2.UIAspectRatioConstraint_124.AspectRatio = 25.615
 
-kr2.UIAspectRatioConstraint_127.Parent = kr2.f4_2
-kr2.UIAspectRatioConstraint_127.AspectRatio = 9.200
+kr2.UIAspectRatioConstraint_125.Parent = kr2.f4_2
+kr2.UIAspectRatioConstraint_125.AspectRatio = 9.200
 
 kr2.Frame_25.Parent = kr2.f4_2
 kr2.Frame_25.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
@@ -4148,21 +4106,21 @@ kr2.Frame_25.Size = UDim2.new(0, 34, 0, 32)
 kr2.UICorner_58.CornerRadius = UDim.new(0, 6)
 kr2.UICorner_58.Parent = kr2.Frame_25
 
-kr2.ImageLabel_48.Parent = kr2.Frame_25
-kr2.ImageLabel_48.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.ImageLabel_48.BackgroundTransparency = 1.000
-kr2.ImageLabel_48.Position = UDim2.new(0, 4, 0, 3)
-kr2.ImageLabel_48.Size = UDim2.new(0, 24, 0, 23)
-kr2.ImageLabel_48.Image = "http://www.roblox.com/asset/?id=6034684930"
+kr2.ImageLabel_46.Parent = kr2.Frame_25
+kr2.ImageLabel_46.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.ImageLabel_46.BackgroundTransparency = 1.000
+kr2.ImageLabel_46.Position = UDim2.new(0, 4, 0, 3)
+kr2.ImageLabel_46.Size = UDim2.new(0, 24, 0, 23)
+kr2.ImageLabel_46.Image = "http://www.roblox.com/asset/?id=6034684930"
 
-kr2.UIAspectRatioConstraint_128.Parent = kr2.ImageLabel_48
-kr2.UIAspectRatioConstraint_128.AspectRatio = 1.043
+kr2.UIAspectRatioConstraint_126.Parent = kr2.ImageLabel_46
+kr2.UIAspectRatioConstraint_126.AspectRatio = 1.043
 
-kr2.UIAspectRatioConstraint_129.Parent = kr2.Frame_25
-kr2.UIAspectRatioConstraint_129.AspectRatio = 1.062
+kr2.UIAspectRatioConstraint_127.Parent = kr2.Frame_25
+kr2.UIAspectRatioConstraint_127.AspectRatio = 1.062
 
-kr2.UIStroke_112.Transparency = 0.800
-kr2.UIStroke_112.Parent = kr2.Frame_25
+kr2.UIStroke_111.Transparency = 0.800
+kr2.UIStroke_111.Parent = kr2.Frame_25
 
 kr2.ToggleBar_5.Name = "ToggleBar"
 kr2.ToggleBar_5.Parent = kr2.f4_2
@@ -4170,6 +4128,7 @@ kr2.ToggleBar_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ToggleBar_5.BackgroundTransparency = 1.000
 kr2.ToggleBar_5.Position = UDim2.new(0, 316, 0, 2)
 kr2.ToggleBar_5.Size = UDim2.new(0, 119, 0, 43)
+kr2.ToggleBar_5.ZIndex = 999999999
 kr2.ToggleBar_5.Font = Enum.Font.SourceSans
 kr2.ToggleBar_5.TextColor3 = Color3.fromRGB(26, 27, 32)
 kr2.ToggleBar_5.TextScaled = true
@@ -4186,8 +4145,8 @@ kr2.onImage_5.Visible = false
 kr2.onImage_5.Image = "http://www.roblox.com/asset/?id=6031068430"
 kr2.onImage_5.ImageColor3 = Color3.fromRGB(7, 171, 119)
 
-kr2.UIAspectRatioConstraint_130.Parent = kr2.onImage_5
-kr2.UIAspectRatioConstraint_130.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_128.Parent = kr2.onImage_5
+kr2.UIAspectRatioConstraint_128.AspectRatio = 1.053
 
 kr2.offImage_5.Name = "offImage"
 kr2.offImage_5.Parent = kr2.ToggleBar_5
@@ -4198,11 +4157,11 @@ kr2.offImage_5.Size = UDim2.new(0, 40, 0, 38)
 kr2.offImage_5.Image = "http://www.roblox.com/asset/?id=6031068429"
 kr2.offImage_5.ImageColor3 = Color3.fromRGB(32, 34, 40)
 
-kr2.UIAspectRatioConstraint_131.Parent = kr2.offImage_5
-kr2.UIAspectRatioConstraint_131.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_129.Parent = kr2.offImage_5
+kr2.UIAspectRatioConstraint_129.AspectRatio = 1.053
 
-kr2.UIAspectRatioConstraint_132.Parent = kr2.ToggleBar_5
-kr2.UIAspectRatioConstraint_132.AspectRatio = 2.767
+kr2.UIAspectRatioConstraint_130.Parent = kr2.ToggleBar_5
+kr2.UIAspectRatioConstraint_130.AspectRatio = 2.767
 
 kr2.UITextSizeConstraint_60.Parent = kr2.ToggleBar_5
 kr2.UITextSizeConstraint_60.MaxTextSize = 14
@@ -4214,51 +4173,48 @@ kr2.f4_3.ClipsDescendants = true
 kr2.f4_3.Position = UDim2.new(0, 0, 0, 241)
 kr2.f4_3.Size = UDim2.new(0, 450, 0, 45)
 
-kr2.UIStroke_113.Color = Color3.fromRGB(37, 36, 42)
-kr2.UIStroke_113.Thickness = 2.000
-kr2.UIStroke_113.Parent = kr2.f4_3
+kr2.UIStroke_112.Color = Color3.fromRGB(37, 36, 42)
+kr2.UIStroke_112.Thickness = 2.000
+kr2.UIStroke_112.Parent = kr2.f4_3
+
+kr2.TextLabel_82.Parent = kr2.f4_3
+kr2.TextLabel_82.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_82.BackgroundTransparency = 1.000
+kr2.TextLabel_82.Position = UDim2.new(0, 89, 0, 5)
+kr2.TextLabel_82.Size = UDim2.new(0, 100, 0, 22)
+kr2.TextLabel_82.Font = Enum.Font.Gotham
+kr2.TextLabel_82.Text = "Menu Stroke"
+kr2.TextLabel_82.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_82.TextScaled = true
+kr2.TextLabel_82.TextSize = 17.000
+kr2.TextLabel_82.TextWrapped = true
+
+kr2.UIStroke_113.Transparency = 0.800
+kr2.UIStroke_113.Parent = kr2.TextLabel_82
+
+kr2.UIAspectRatioConstraint_131.Parent = kr2.TextLabel_82
+kr2.UIAspectRatioConstraint_131.AspectRatio = 4.545
+
+kr2.UITextSizeConstraint_61.Parent = kr2.TextLabel_82
+kr2.UITextSizeConstraint_61.MaxTextSize = 17
 
 kr2.TextLabel_83.Parent = kr2.f4_3
 kr2.TextLabel_83.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.TextLabel_83.BackgroundTransparency = 1.000
-kr2.TextLabel_83.Position = UDim2.new(0, 89, 0, 5)
-kr2.TextLabel_83.Size = UDim2.new(0, 100, 0, 22)
+kr2.TextLabel_83.Position = UDim2.new(0, 29, 0, 27)
+kr2.TextLabel_83.Size = UDim2.new(0, 316, 0, 12)
 kr2.TextLabel_83.Font = Enum.Font.Gotham
-kr2.TextLabel_83.Text = "Menu Stroke"
-kr2.TextLabel_83.TextColor3 = Color3.fromRGB(255, 255, 255)
+kr2.TextLabel_83.Text = "Enables a Stroke around the Menu"
+kr2.TextLabel_83.TextColor3 = Color3.fromRGB(206, 206, 206)
 kr2.TextLabel_83.TextScaled = true
-kr2.TextLabel_83.TextSize = 17.000
+kr2.TextLabel_83.TextSize = 12.000
 kr2.TextLabel_83.TextWrapped = true
 
 kr2.UIStroke_114.Transparency = 0.800
 kr2.UIStroke_114.Parent = kr2.TextLabel_83
 
-kr2.UIAspectRatioConstraint_133.Parent = kr2.TextLabel_83
-kr2.UIAspectRatioConstraint_133.AspectRatio = 4.545
-
-kr2.UITextSizeConstraint_61.Parent = kr2.TextLabel_83
-kr2.UITextSizeConstraint_61.MaxTextSize = 17
-
-kr2.TextLabel_84.Parent = kr2.f4_3
-kr2.TextLabel_84.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-kr2.TextLabel_84.BackgroundTransparency = 1.000
-kr2.TextLabel_84.Position = UDim2.new(0, 29, 0, 27)
-kr2.TextLabel_84.Size = UDim2.new(0, 314, 0, 12)
-kr2.TextLabel_84.Font = Enum.Font.Gotham
-kr2.TextLabel_84.Text = "Enables a Stroke around the Menu"
-kr2.TextLabel_84.TextColor3 = Color3.fromRGB(206, 206, 206)
-kr2.TextLabel_84.TextScaled = true
-kr2.TextLabel_84.TextSize = 12.000
-kr2.TextLabel_84.TextWrapped = true
-
-kr2.UIStroke_115.Transparency = 0.800
-kr2.UIStroke_115.Parent = kr2.TextLabel_84
-
-kr2.UITextSizeConstraint_62.Parent = kr2.TextLabel_84
+kr2.UITextSizeConstraint_62.Parent = kr2.TextLabel_83
 kr2.UITextSizeConstraint_62.MaxTextSize = 12
-
-kr2.UIAspectRatioConstraint_134.Parent = kr2.TextLabel_84
-kr2.UIAspectRatioConstraint_134.AspectRatio = 25.615
 
 kr2.Frame_26.Parent = kr2.f4_3
 kr2.Frame_26.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
@@ -4268,21 +4224,21 @@ kr2.Frame_26.Size = UDim2.new(0, 34, 0, 32)
 kr2.UICorner_59.CornerRadius = UDim.new(0, 6)
 kr2.UICorner_59.Parent = kr2.Frame_26
 
-kr2.ImageLabel_49.Parent = kr2.Frame_26
-kr2.ImageLabel_49.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
-kr2.ImageLabel_49.BackgroundTransparency = 1.000
-kr2.ImageLabel_49.Position = UDim2.new(0, 4, 0, 3)
-kr2.ImageLabel_49.Size = UDim2.new(0, 24, 0, 23)
-kr2.ImageLabel_49.Image = "http://www.roblox.com/asset/?id=6034934039"
+kr2.ImageLabel_47.Parent = kr2.Frame_26
+kr2.ImageLabel_47.BackgroundColor3 = Color3.fromRGB(45, 45, 51)
+kr2.ImageLabel_47.BackgroundTransparency = 1.000
+kr2.ImageLabel_47.Position = UDim2.new(0, 4, 0, 3)
+kr2.ImageLabel_47.Size = UDim2.new(0, 24, 0, 23)
+kr2.ImageLabel_47.Image = "http://www.roblox.com/asset/?id=6034934039"
 
-kr2.UIAspectRatioConstraint_135.Parent = kr2.ImageLabel_49
-kr2.UIAspectRatioConstraint_135.AspectRatio = 1.043
+kr2.UIAspectRatioConstraint_132.Parent = kr2.ImageLabel_47
+kr2.UIAspectRatioConstraint_132.AspectRatio = 1.043
 
-kr2.UIAspectRatioConstraint_136.Parent = kr2.Frame_26
-kr2.UIAspectRatioConstraint_136.AspectRatio = 1.062
+kr2.UIAspectRatioConstraint_133.Parent = kr2.Frame_26
+kr2.UIAspectRatioConstraint_133.AspectRatio = 1.062
 
-kr2.UIStroke_116.Transparency = 0.800
-kr2.UIStroke_116.Parent = kr2.Frame_26
+kr2.UIStroke_115.Transparency = 0.800
+kr2.UIStroke_115.Parent = kr2.Frame_26
 
 kr2.ToggleBar_6.Name = "ToggleBar"
 kr2.ToggleBar_6.Parent = kr2.f4_3
@@ -4290,6 +4246,7 @@ kr2.ToggleBar_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr2.ToggleBar_6.BackgroundTransparency = 1.000
 kr2.ToggleBar_6.Position = UDim2.new(0, 316, 0, 1)
 kr2.ToggleBar_6.Size = UDim2.new(0, 119, 0, 43)
+kr2.ToggleBar_6.ZIndex = 999999999
 kr2.ToggleBar_6.Font = Enum.Font.SourceSans
 kr2.ToggleBar_6.TextColor3 = Color3.fromRGB(26, 27, 32)
 kr2.ToggleBar_6.TextScaled = true
@@ -4306,8 +4263,8 @@ kr2.onImage_6.Visible = false
 kr2.onImage_6.Image = "http://www.roblox.com/asset/?id=6031068430"
 kr2.onImage_6.ImageColor3 = Color3.fromRGB(7, 171, 119)
 
-kr2.UIAspectRatioConstraint_137.Parent = kr2.onImage_6
-kr2.UIAspectRatioConstraint_137.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_134.Parent = kr2.onImage_6
+kr2.UIAspectRatioConstraint_134.AspectRatio = 1.053
 
 kr2.offImage_6.Name = "offImage"
 kr2.offImage_6.Parent = kr2.ToggleBar_6
@@ -4318,22 +4275,22 @@ kr2.offImage_6.Size = UDim2.new(0, 40, 0, 38)
 kr2.offImage_6.Image = "http://www.roblox.com/asset/?id=6031068429"
 kr2.offImage_6.ImageColor3 = Color3.fromRGB(32, 34, 40)
 
-kr2.UIAspectRatioConstraint_138.Parent = kr2.offImage_6
-kr2.UIAspectRatioConstraint_138.AspectRatio = 1.053
+kr2.UIAspectRatioConstraint_135.Parent = kr2.offImage_6
+kr2.UIAspectRatioConstraint_135.AspectRatio = 1.053
 
-kr2.UIAspectRatioConstraint_139.Parent = kr2.ToggleBar_6
-kr2.UIAspectRatioConstraint_139.AspectRatio = 2.767
+kr2.UIAspectRatioConstraint_136.Parent = kr2.ToggleBar_6
+kr2.UIAspectRatioConstraint_136.AspectRatio = 2.767
 
 kr2.UITextSizeConstraint_63.Parent = kr2.ToggleBar_6
 kr2.UITextSizeConstraint_63.MaxTextSize = 14
 
-kr2.UIAspectRatioConstraint_140.Parent = kr2.f4_3
-kr2.UIAspectRatioConstraint_140.AspectRatio = 10.000
+kr2.UIAspectRatioConstraint_137.Parent = kr2.f4_3
+kr2.UIAspectRatioConstraint_137.AspectRatio = 10.000
 
-kr2.UIStroke_117.Color = Color3.fromRGB(81, 83, 92)
-kr2.UIStroke_117.Thickness = 3.000
-kr2.UIStroke_117.Transparency = 0.200
-kr2.UIStroke_117.Parent = kr2.MainMenu
+kr2.UIStroke_116.Color = Color3.fromRGB(81, 83, 92)
+kr2.UIStroke_116.Thickness = 3.000
+kr2.UIStroke_116.Transparency = 0.200
+kr2.UIStroke_116.Parent = kr2.MainMenu
 
 kr2.OpenKr.Name = "OpenKr"
 kr2.OpenKr.Parent = kr2.kr2
@@ -4342,6 +4299,7 @@ kr2.OpenKr.BackgroundTransparency = 1.000
 kr2.OpenKr.Position = UDim2.new(0, 33, 0, 145)
 kr2.OpenKr.Size = UDim2.new(0, 108, 0, 94)
 kr2.OpenKr.Visible = false
+kr2.OpenKr.ZIndex = 999999999
 kr2.OpenKr.Image = "rbxassetid://13776988281"
 
 kr2.openBtn.Name = "openBtn"
@@ -4361,18 +4319,18 @@ kr2.openBtn.TextWrapped = true
 kr2.UICorner_60.CornerRadius = UDim.new(0, 60)
 kr2.UICorner_60.Parent = kr2.openBtn
 
-kr2.UIAspectRatioConstraint_141.Parent = kr2.openBtn
-kr2.UIAspectRatioConstraint_141.AspectRatio = 1.039
+kr2.UIAspectRatioConstraint_138.Parent = kr2.openBtn
+kr2.UIAspectRatioConstraint_138.AspectRatio = 1.039
 
 kr2.UITextSizeConstraint_64.Parent = kr2.openBtn
 kr2.UITextSizeConstraint_64.MaxTextSize = 51
 
-kr2.UIAspectRatioConstraint_142.Parent = kr2.OpenKr
-kr2.UIAspectRatioConstraint_142.AspectRatio = 1.149
+kr2.UIAspectRatioConstraint_139.Parent = kr2.OpenKr
+kr2.UIAspectRatioConstraint_139.AspectRatio = 1.149
 
 -- Scripts:
 
-local function IBMM_fake_script() -- kr2.clear.TEST 
+local function SOSDL_fake_script() -- kr2.clear.TEST 
 	local script = Instance.new('LocalScript', kr2.clear)
 
 	local btn = script.Parent.Parent.clear
@@ -4387,8 +4345,8 @@ local function IBMM_fake_script() -- kr2.clear.TEST
 		clearW.Visible = false
 	end)
 end
-coroutine.wrap(IBMM_fake_script)()
-local function GKKDFPA_fake_script() -- kr2.TextButton.LocalScript 
+coroutine.wrap(SOSDL_fake_script)()
+local function UKUWTCJ_fake_script() -- kr2.TextButton.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4399,8 +4357,8 @@ local function GKKDFPA_fake_script() -- kr2.TextButton.LocalScript
 		clearW.Visible = false
 	end)
 end
-coroutine.wrap(GKKDFPA_fake_script)()
-local function CCIQ_fake_script() -- kr2.ImageButton.LocalScript 
+coroutine.wrap(UKUWTCJ_fake_script)()
+local function EBIV_fake_script() -- kr2.ImageButton.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ImageButton)
 
 	local btn = script.Parent.Parent.ImageButton
@@ -4411,8 +4369,8 @@ local function CCIQ_fake_script() -- kr2.ImageButton.LocalScript
 		clearW.Visible = false
 	end)
 end
-coroutine.wrap(CCIQ_fake_script)()
-local function THTLL_fake_script() -- kr2.TextBox_2.LocalScript 
+coroutine.wrap(EBIV_fake_script)()
+local function VZGV_fake_script() -- kr2.TextBox_2.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextBox_2)
 
 	local textbox1 = script.Parent.Parent.Parent.Parent.Parent.Parent.MainMenu.EditorPage.Editor.ScrollingFrame.TextBox
@@ -4424,9 +4382,9 @@ local function THTLL_fake_script() -- kr2.TextBox_2.LocalScript
 	
 	textbox1.Changed:Connect(syncText)
 end
-coroutine.wrap(THTLL_fake_script)()
+coroutine.wrap(VZGV_fake_script)()
 -- kr2.preview.LocalScript is disabled.
-local function VLBAKH_fake_script() -- kr2.ExecuteBtn.LocalScript 
+local function SNNWSSO_fake_script() -- kr2.ExecuteBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ExecuteBtn)
 
 	local btn = script.Parent.Parent.ExecuteBtn
@@ -4460,8 +4418,8 @@ local function VLBAKH_fake_script() -- kr2.ExecuteBtn.LocalScript
 	end)
 	
 end
-coroutine.wrap(VLBAKH_fake_script)()
-local function MNTPA_fake_script() -- kr2.clearBtn.LocalScript 
+coroutine.wrap(SNNWSSO_fake_script)()
+local function ARTDQLB_fake_script() -- kr2.clearBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.clearBtn)
 
 	local btn = script.Parent.Parent.clearBtn
@@ -4471,15 +4429,15 @@ local function MNTPA_fake_script() -- kr2.clearBtn.LocalScript
 		clearW.Visible = true
 	end)
 end
-coroutine.wrap(MNTPA_fake_script)()
-local function ZLTHHY_fake_script() -- kr2.Pattern.LocalScript 
+coroutine.wrap(ARTDQLB_fake_script)()
+local function HVDPPB_fake_script() -- kr2.Pattern.LocalScript 
 	local script = Instance.new('LocalScript', kr2.Pattern)
 
 	print("Hello world!")
 	
 end
-coroutine.wrap(ZLTHHY_fake_script)()
-local function SDQE_fake_script() -- kr2.SavedBtn.LocalScript 
+coroutine.wrap(HVDPPB_fake_script)()
+local function KGMBS_fake_script() -- kr2.SavedBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.SavedBtn)
 
 	local pr1 = script.Parent.Parent.Parent
@@ -4515,8 +4473,8 @@ local function SDQE_fake_script() -- kr2.SavedBtn.LocalScript
 		fB.BackgroundColor3 = color2
 	end)
 end
-coroutine.wrap(SDQE_fake_script)()
-local function KEHTZI_fake_script() -- kr2.HubBtn.LocalScript 
+coroutine.wrap(KGMBS_fake_script)()
+local function HRPWN_fake_script() -- kr2.HubBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.HubBtn)
 
 	local pr1 = script.Parent.Parent.Parent
@@ -4552,8 +4510,8 @@ local function KEHTZI_fake_script() -- kr2.HubBtn.LocalScript
 		fB.BackgroundColor3 = color2
 	end)
 end
-coroutine.wrap(KEHTZI_fake_script)()
-local function XRDUJCW_fake_script() -- kr2.favBtn.LocalScript 
+coroutine.wrap(HRPWN_fake_script)()
+local function VSROAY_fake_script() -- kr2.favBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.favBtn)
 
 	local pr1 = script.Parent.Parent.Parent
@@ -4589,8 +4547,8 @@ local function XRDUJCW_fake_script() -- kr2.favBtn.LocalScript
 		fB.BackgroundColor3 = color1
 	end)
 end
-coroutine.wrap(XRDUJCW_fake_script)()
-local function JXRVOSP_fake_script() -- kr2.TextButton_2.LocalScript 
+coroutine.wrap(VSROAY_fake_script)()
+local function ATMHHG_fake_script() -- kr2.TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_2)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4599,8 +4557,8 @@ local function JXRVOSP_fake_script() -- kr2.TextButton_2.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 	end)
 end
-coroutine.wrap(JXRVOSP_fake_script)()
-local function EMDF_fake_script() -- kr2.TextButton_3.LocalScript 
+coroutine.wrap(ATMHHG_fake_script)()
+local function UTVZVU_fake_script() -- kr2.TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_3)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4609,8 +4567,8 @@ local function EMDF_fake_script() -- kr2.TextButton_3.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
 	end)
 end
-coroutine.wrap(EMDF_fake_script)()
-local function LXUFX_fake_script() -- kr2.TextButton_4.LocalScript 
+coroutine.wrap(UTVZVU_fake_script)()
+local function KCOGW_fake_script() -- kr2.TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_4)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4619,8 +4577,8 @@ local function LXUFX_fake_script() -- kr2.TextButton_4.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 	end)
 end
-coroutine.wrap(LXUFX_fake_script)()
-local function VUZWPJ_fake_script() -- kr2.TextButton_5.LocalScript 
+coroutine.wrap(KCOGW_fake_script)()
+local function INPU_fake_script() -- kr2.TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_5)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4629,8 +4587,8 @@ local function VUZWPJ_fake_script() -- kr2.TextButton_5.LocalScript
 		loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
 	end)
 end
-coroutine.wrap(VUZWPJ_fake_script)()
-local function GUUCRP_fake_script() -- kr2.TextButton_6.LocalScript 
+coroutine.wrap(INPU_fake_script)()
+local function LWNQ_fake_script() -- kr2.TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_6)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4639,8 +4597,8 @@ local function GUUCRP_fake_script() -- kr2.TextButton_6.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game_Hub_v1.5/main/loader"))()
 	end)
 end
-coroutine.wrap(GUUCRP_fake_script)()
-local function HNGPGH_fake_script() -- kr2.TextBox_3.LocalScript 
+coroutine.wrap(LWNQ_fake_script)()
+local function NVTJQ_fake_script() -- kr2.TextBox_3.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextBox_3)
 
 	local textBox = script.Parent.Parent.TextBox
@@ -4660,8 +4618,8 @@ local function HNGPGH_fake_script() -- kr2.TextBox_3.LocalScript
 	
 	textBox.FocusLost:Connect(onTextBoxFocusLost)
 end
-coroutine.wrap(HNGPGH_fake_script)()
-local function CDYQ_fake_script() -- kr2.refreshBtn.LocalScript 
+coroutine.wrap(NVTJQ_fake_script)()
+local function LBSPRWP_fake_script() -- kr2.refreshBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.refreshBtn)
 
 	local TweenService = game:GetService("TweenService")
@@ -4685,21 +4643,21 @@ local function CDYQ_fake_script() -- kr2.refreshBtn.LocalScript
 	end)
 	
 end
-coroutine.wrap(CDYQ_fake_script)()
-local function RZKDV_fake_script() -- kr2.TextButton_9.LocalScript 
+coroutine.wrap(LBSPRWP_fake_script)()
+local function DNMBGF_fake_script() -- kr2.TextButton_9.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_9)
 
 	
 end
-coroutine.wrap(RZKDV_fake_script)()
-local function PBOIW_fake_script() -- kr2.TextButton_10.LocalScript 
+coroutine.wrap(DNMBGF_fake_script)()
+local function UGAURO_fake_script() -- kr2.TextButton_10.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextButton_10)
 
 	print("Hello world!")
 	
 end
-coroutine.wrap(PBOIW_fake_script)()
-local function LYUI_fake_script() -- kr2.TextLabel_44.LocalScript 
+coroutine.wrap(UGAURO_fake_script)()
+local function PNDG_fake_script() -- kr2.TextLabel_44.LocalScript 
 	local script = Instance.new('LocalScript', kr2.TextLabel_44)
 
 	local label = script.Parent.Parent.TextLabel
@@ -4719,8 +4677,8 @@ local function LYUI_fake_script() -- kr2.TextLabel_44.LocalScript
 	end
 	
 end
-coroutine.wrap(LYUI_fake_script)()
-local function SOEOYI_fake_script() -- kr2.DName.LocalScript 
+coroutine.wrap(PNDG_fake_script)()
+local function WKQRXG_fake_script() -- kr2.DName.LocalScript 
 	local script = Instance.new('LocalScript', kr2.DName)
 
 	local player = game.Players.LocalPlayer
@@ -4733,8 +4691,8 @@ local function SOEOYI_fake_script() -- kr2.DName.LocalScript
 	end)
 	
 end
-coroutine.wrap(SOEOYI_fake_script)()
-local function PWELHNF_fake_script() -- kr2.Sidebar.TabHandler 
+coroutine.wrap(WKQRXG_fake_script)()
+local function ZAQX_fake_script() -- kr2.Sidebar.TabHandler 
 	local script = Instance.new('LocalScript', kr2.Sidebar)
 
 	local currentPage = 1
@@ -4810,8 +4768,8 @@ local function PWELHNF_fake_script() -- kr2.Sidebar.TabHandler
 		end)
 	end
 end
-coroutine.wrap(PWELHNF_fake_script)()
-local function PIPN_fake_script() -- kr2.closeBtn.LocalScript 
+coroutine.wrap(ZAQX_fake_script)()
+local function MYWJLG_fake_script() -- kr2.closeBtn.LocalScript 
 	local script = Instance.new('LocalScript', kr2.closeBtn)
 
 	local isOpen = false 
@@ -4836,6 +4794,7 @@ local function PIPN_fake_script() -- kr2.closeBtn.LocalScript
 	local function OpenUI()
 		isOpen = true
 		UI:TweenPosition(openPosition, Enum.EasingDirection.Out, Enum.EasingStyle.Quad, tweenTime, true)
+		script.Parent.Parent.Parent.Parent.OpenKr.Visible = false
 	end
 	
 	
@@ -4851,8 +4810,8 @@ local function PIPN_fake_script() -- kr2.closeBtn.LocalScript
 	script.Parent.Parent.closeBtn.MouseButton1Click:Connect(CloseUI)
 	
 end
-coroutine.wrap(PIPN_fake_script)()
-local function LKNX_fake_script() -- kr2.WelcomeWindow.LocalScript 
+coroutine.wrap(MYWJLG_fake_script)()
+local function NBKSFU_fake_script() -- kr2.WelcomeWindow.LocalScript 
 	local script = Instance.new('LocalScript', kr2.WelcomeWindow)
 
 	local wmenu = script.Parent.Parent.WelcomeWindow
@@ -4861,8 +4820,8 @@ local function LKNX_fake_script() -- kr2.WelcomeWindow.LocalScript
 	
 	wmenu.Visible = true
 end
-coroutine.wrap(LKNX_fake_script)()
-local function AJWKL_fake_script() -- kr2.iagree.LocalScript 
+coroutine.wrap(NBKSFU_fake_script)()
+local function VJKBRW_fake_script() -- kr2.iagree.LocalScript 
 	local script = Instance.new('LocalScript', kr2.iagree)
 
 	local btn = script.Parent.Parent.iagree
@@ -4873,8 +4832,8 @@ local function AJWKL_fake_script() -- kr2.iagree.LocalScript
 		wmenu.Visible = false
 	end)
 end
-coroutine.wrap(AJWKL_fake_script)()
-local function ZNWHGH_fake_script() -- kr2.ToggleBar.LocalScript 
+coroutine.wrap(VJKBRW_fake_script)()
+local function VVDD_fake_script() -- kr2.ToggleBar.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ToggleBar)
 
 	local toggleScript = false
@@ -4910,8 +4869,8 @@ local function ZNWHGH_fake_script() -- kr2.ToggleBar.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(ZNWHGH_fake_script)()
-local function NDQTO_fake_script() -- kr2.ToggleBar_2.LocalScript 
+coroutine.wrap(VVDD_fake_script)()
+local function EFRIH_fake_script() -- kr2.ToggleBar_2.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ToggleBar_2)
 
 	local toggleScript = false
@@ -4931,21 +4890,24 @@ local function NDQTO_fake_script() -- kr2.ToggleBar_2.LocalScript
 			script.Parent.onImage.Visible = true
 			script.Parent.offImage.Visible = false
 			script.Parent.onImage.ImageColor3 = Color3.fromRGB(7, 171, 119)
-			runScript()
+			script.Parent.Parent.Parent.Parent.EditorPage.Frame.executeF.ExecuteBtn.MouseButton1Click:Connect(function()
+				script.Parent.Parent.Parent.Parent.Parent.MainMenu.Visible = false
+				script.Parent.Parent.Parent.Parent.Parent.OpenKr.Visible = true
+			end)
 		else
 			--off
 			script.Parent.onImage.Visible = false
 			script.Parent.offImage.Visible = true
 			script.Parent.offImage.ImageColor3 = Color3.fromRGB(32, 34, 40)
-			runScript2()
+			
 		end
 	end
 	
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(NDQTO_fake_script)()
-local function YSEFBB_fake_script() -- kr2.cOE.LocalScript 
+coroutine.wrap(EFRIH_fake_script)()
+local function QJEBNJF_fake_script() -- kr2.cOE.LocalScript 
 	local script = Instance.new('LocalScript', kr2.cOE)
 
 	local toggled = false
@@ -4976,8 +4938,8 @@ local function YSEFBB_fake_script() -- kr2.cOE.LocalScript
 	end
 	
 end
-coroutine.wrap(YSEFBB_fake_script)()
-local function QNXJW_fake_script() -- kr2.ToggleBar_3.LocalScript 
+coroutine.wrap(QJEBNJF_fake_script)()
+local function VZCHCF_fake_script() -- kr2.ToggleBar_3.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ToggleBar_3)
 
 	local toggleScript = false
@@ -5019,8 +4981,8 @@ local function QNXJW_fake_script() -- kr2.ToggleBar_3.LocalScript
 	
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 end
-coroutine.wrap(QNXJW_fake_script)()
-local function ZCSGA_fake_script() -- kr2.ToggleBar_4.LocalScript 
+coroutine.wrap(VZCHCF_fake_script)()
+local function SYBLCL_fake_script() -- kr2.ToggleBar_4.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ToggleBar_4)
 
 	local toggleScript = false
@@ -5051,8 +5013,8 @@ local function ZCSGA_fake_script() -- kr2.ToggleBar_4.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(ZCSGA_fake_script)()
-local function DNZJOS_fake_script() -- kr2.ToggleBar_5.LocalScript 
+coroutine.wrap(SYBLCL_fake_script)()
+local function UYALUJ_fake_script() -- kr2.ToggleBar_5.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ToggleBar_5)
 
 	local toggleScript = false
@@ -5092,8 +5054,8 @@ local function DNZJOS_fake_script() -- kr2.ToggleBar_5.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(DNZJOS_fake_script)()
-local function GDXN_fake_script() -- kr2.ToggleBar_6.LocalScript 
+coroutine.wrap(UYALUJ_fake_script)()
+local function ZHNZE_fake_script() -- kr2.ToggleBar_6.LocalScript 
 	local script = Instance.new('LocalScript', kr2.ToggleBar_6)
 
 	local toggleScript = false
@@ -5130,8 +5092,8 @@ local function GDXN_fake_script() -- kr2.ToggleBar_6.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(GDXN_fake_script)()
-local function THMKHF_fake_script() -- kr2.MainMenu.LocalScript 
+coroutine.wrap(ZHNZE_fake_script)()
+local function FIVUQKT_fake_script() -- kr2.MainMenu.LocalScript 
 	local script = Instance.new('LocalScript', kr2.MainMenu)
 
 	local UIS = game:GetService('UserInputService')
@@ -5168,9 +5130,10 @@ local function THMKHF_fake_script() -- kr2.MainMenu.LocalScript
 			end
 		end
 	end)
+	
 end
-coroutine.wrap(THMKHF_fake_script)()
-local function ERDOFKP_fake_script() -- kr2.openBtn.openScript 
+coroutine.wrap(FIVUQKT_fake_script)()
+local function PTPR_fake_script() -- kr2.openBtn.openScript 
 	local script = Instance.new('LocalScript', kr2.openBtn)
 
 	local btn = script.Parent.Parent.openBtn
@@ -5184,12 +5147,12 @@ local function ERDOFKP_fake_script() -- kr2.openBtn.openScript
 		openKr.Visible = false
 	end)
 end
-coroutine.wrap(ERDOFKP_fake_script)()
-local function HFWP_fake_script() -- kr2.OpenKr.drag 
+coroutine.wrap(PTPR_fake_script)()
+local function IPKLSS_fake_script() -- kr2.OpenKr.drag 
 	local script = Instance.new('LocalScript', kr2.OpenKr)
 
 	local UIS = game:GetService('UserInputService')
-	local frame = script.Parent
+	local frame = script.Parent.Parent.OpenKr
 	local dragToggle = nil
 	local dragSpeed = 0.25
 	local dragStart = nil
@@ -5223,4 +5186,4 @@ local function HFWP_fake_script() -- kr2.OpenKr.drag
 		end
 	end)
 end
-coroutine.wrap(HFWP_fake_script)()
+coroutine.wrap(IPKLSS_fake_script)()
